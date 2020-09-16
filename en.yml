@@ -1,3 +1,4 @@
 en:
-  index.welcome: Welcome to %s
-  index.header: Making Transaltions Simple.
+    index.welcome: 'Welcome to %s'
+    index.header: 'Making Translations Simple.'
+    index.main: 'Hi, This is a new test {%name%}'

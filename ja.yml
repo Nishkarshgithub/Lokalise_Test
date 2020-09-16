@@ -1,4 +1,4 @@
 ja:
-  index.welcome: 
-  index.header: 
-  index.main: 
+    index.welcome: '%s へようこそ'
+    index.header: 翻訳をシンプルにする。
+    index.main: 'こんにちは、これは新しいテスト %name% です'
