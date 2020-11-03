@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: TESTONE\n"
+"PO-Revision-Date: 2020-11-03 04:55\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: en\n"
+
+msgid "anotherkey"
+msgstr "another test value"
+
+msgid "index.header"
+msgstr "Making Translations Simple %s"
+
+msgid "index.main"
+msgstr "Hi, This is a new test {%name%}"
+
+msgid "index.welcome"
+msgstr "Welcome to %s"
+
+msgid "JSON_TEST_KEY"
+msgstr "NEW ONE"
+
+msgid "json_test_key"
+msgstr "new values"
