@@ -5,27 +5,28 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.com\n"
 "Project-Id-Version: TESTONE\n"
-"PO-Revision-Date: 2020-11-03 04:55\n"
+"PO-Revision-Date: 2020-11-05 07:36\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
 "Language: hi_IN\n"
 
-#, fuzzy
-msgid "anotherkey"
-msgstr ""
-
 msgid "index.header"
 msgstr ""
 
+#, fuzzy
 msgid "index.main"
-msgstr ""
+msgstr "नमस्ते, यह एक नया परीक्षण %name%"
 
 msgid "index.welcome"
-msgstr ""
+msgstr "%s स्वागत है"
 
 msgid "JSON_TEST_KEY"
 msgstr "नया"
 
 #, fuzzy
-msgid "json_test_key"
+msgid "My subscription"
+msgstr ""
+
+#, fuzzy
+msgid "My Subscription"
 msgstr ""
