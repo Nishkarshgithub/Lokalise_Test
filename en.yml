@@ -1,3 +1,12 @@
 en:
-  index.welcome: Welcome to Lokalise
-  index.header: Making Transaltions Simple.
+  task_move-task--undo-many: 'Your {0} Glovo Business orders have been scheduled for {1}. Glovo batch ID {2}.'
+  'New Key': 'Your {0} Glovo Business orders have been scheduled for {1}. Glovo batch ID {2}.'
+  index.main: ''
+  index.bitbucket.new: index.bitbucket.new
+  index.welcome: 'Welcome to {%s}'
+  index.header: 'Making Transaltions Simple.'
+  New_key_copy: 'Go to 1:00 AM'
+  New_Key: 'Your Glovo Business orders have been scheduled for Glovo batch ID.'
+  task_move_task__undo_many: 'Your Glovo batch ID.'
+  нова_стойност_за_проверка_a: 'нова стойност за проверка a'
+  Text: ''
