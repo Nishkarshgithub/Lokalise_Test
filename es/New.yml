@@ -1,0 +1,2 @@
+'New Key': 'Sus pedidos de Glovo Business se han programado para {1}. {2} {0} glovo batch ID.'
+task_move-task--undo-many: 'Sus {0} pedidos Glovo Business se han programado para {1} . ID de lote de Glovo {2} .'
