@@ -1,37 +1,34 @@
-en:
-    task_move-task--undo-many: 'Your {0} Glovo Business orders have been scheduled for {1}. Glovo batch ID {2}.'
-    'New Key': 'Your {0} Glovo Business orders have been scheduled for {1}. Glovo batch ID {2}.'
-    index.main: 'New value '
-    index.bitbucket.new: index.bitbucket.new
-    New_Key: 'Your Glovo Business orders have been scheduled for Glovo batch ID.'
-    task_move_task__undo_many: 'Your Glovo batch ID.'
-    index.welcome: 'مرحبًا بكم في Lokalise'
-    index.header: 'جعل التحويلات بسيطة.'
-    New_Key_copy: 'Go to 1:00 AM'
-    New_key_copy: 'Go to 1:00 AM'
-    нова_стойност_за_проверка_a: 'нова стойност за проверка a'
+zh_CN:
+    task_move-task--undo-many: ''
+    'New Key': ''
+    index.main: ''
+    index.bitbucket.new: ''
+    New_Key: ''
+    task_move_task__undo_many: ''
+    index.welcome: ''
+    index.header: ''
+    New_Key_copy: ''
+    New_key_copy: ''
+    нова_стойност_за_проверка_a: ''
     Text: ''
     index:
-        'main2': index.bitbucket.new
+        'main2': ''
         'main':
-            one: one
-            other: 'New # value ghv'
-    indexcheck: 'We support {count, plural, =1 {1 Feature} other {{count} Features}}'
-    indexcheck1: 'We support {count, plural, =1 {1 Feature} other {{count} Features}}'
+            other: ''
+    indexcheck: ''
+    indexcheck1: ''
     indexcheck10:
-        one: '1 Feature'
-        other: '{count} Features'
+        other: ''
     frame_1:
-        new_world_9: 'NEW WORLD 9'
-        new_world_2: 'NEW WORLD 2'
-        new_world_3: 'NEW WORLD 3'
-        new_world_4: 'NEW WORLD 4'
-        new_world_5: 'NEW WORLD 5'
-        new_world_10: 'NEW WORLD 10'
-        new_world_6: 'NEW WORLD 6'
-        new_world: 'NEW WORLD'
+        new_world_9: ''
+        new_world_2: ''
+        new_world_3: ''
+        new_world_4: ''
+        new_world_5: ''
+        new_world_10: ''
+        new_world_6: ''
+        new_world: ''
         new_world_7:
-            one: 'some value'
             other: ''
     '1K+ fonts': ''
     '1K+ templates': ''
@@ -255,7 +252,7 @@ en:
     'Skip For Now': ''
     'Slideshow Maker': ''
     'Sorry, there were no results found': ''
-    'Start Free Trial': hjbjhhbe
+    'Start Free Trial': j
     'Sticker Maker': ''
     Stickers: ''
     'Style Transfer': ''
@@ -299,26 +296,24 @@ en:
     'Your browser does not support the video tag.': ''
     'your collections': ''
     'YouTube Banner Maker': ''
-    'YouTube Cover': 'New valueehfdfhvf'
-    newkwy: This
-    'newkey[0]_copy': 'some value 12345'
-    'newkey[0]_copy_copy': 'some value 12345'
+    'YouTube Cover': ''
+    newkwy: ''
+    'newkey[0]_copy': 一些价值
+    'newkey[0]_copy_copy': 一些价值
     frame_2:
-        text: 'Your & and'
-    fdxdgchv: '{"one":"","other":"Your New {0} {0}"}'
+        text: 您的＆和＆
+    fdxdgchv: '{"other":"\u60a8\u7684\u65b0{0} {0}"}'
     task:
-        one: ''
-        other: 'Your New {0} {0}'
-    'Data Collected': 'Access provider'
-    'Data Purpose': Advertisement
-    'Third Countries': Europe
-    'Data Purposes': 'Adjustment of search results'
-    'Data transfer to third countries': Worldwide
-    'Technologies Used': Add-on
-    'Data collected': 'Custom attributes'
-    'Technologies used': 'Device fingerprinting'
-    'Data purpose': 'Personalization of content'
-    'Retention Period': 'The consent data (given consent and revocation of consent) are stored for three year. The data will then be deleted immediately.'
+        other: '您的新{0} {0}'
+    'Data Collected': ''
+    'Data Purpose': ''
+    'Third Countries': ''
+    'Data Purposes': ''
+    'Data transfer to third countries': ''
+    'Technologies Used': ''
+    'Data collected': ''
+    'Technologies used': ''
+    'Data purpose': ''
+    'Retention Period': ''
     cu-dashboard-doc-main__hide-relateddf:
-        one: some
-        other: some
+        other: ''
