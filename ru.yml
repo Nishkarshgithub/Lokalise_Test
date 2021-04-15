@@ -1,4 +1,4 @@
-ja:
+ru:
     task_move-task--undo-many: ''
     'New Key': ''
     index.main: ''
@@ -14,10 +14,16 @@ ja:
     index:
         'main2': ''
         'main':
+            one: ''
+            few: ''
+            many: ''
             other: ''
     indexcheck: ''
     indexcheck1: ''
     indexcheck10:
+        one: ''
+        few: ''
+        many: ''
         other: ''
     frame_1:
         new_world_9: ''
@@ -29,6 +35,9 @@ ja:
         new_world_6: ''
         new_world: ''
         new_world_7:
+            one: ''
+            few: ''
+            many: ''
             other: ''
     '1K+ fonts': ''
     '1K+ templates': ''
@@ -298,22 +307,28 @@ ja:
     'YouTube Banner Maker': ''
     'YouTube Cover': ''
     newkwy: ''
-    'newkey[0]_copy': ''
-    'newkey[0]_copy_copy': ''
+    'newkey[0]_copy': 'Некоторая ценность'
+    'newkey[0]_copy_copy': 'Некоторая ценность'
     frame_2:
-        text: あなたの＆と＆
-    fdxdgchv: '{"other":"\u3042\u306a\u305f\u306e\uff06\u3068\uff06"}'
+        text: 'Ваш & и &'
+    fdxdgchv: '{"one":"","few":"","many":"","other":"\u0412\u0430\u0448 & \u0438 &"}'
     task:
-        other: あなたの＆と＆
-    'Data Collected': アクセスプロバイダー
-    'Data Purpose': 広告
-    'Third Countries': ヨーロッパ
-    'Data Purposes': 検索結果の調整
-    'Data transfer to third countries': 全世界
-    'Technologies Used': アドオン
-    'Data collected': カスタム属性
-    'Technologies used': デバイスフィンガープリント
-    'Data purpose': コンテンツのパーソナライズ
-    'Retention Period': 同意データ（同意の付与と同意の取り消し）は3年間保存されます。その後、データはすぐに削除されます。
+        one: ''
+        few: ''
+        many: ''
+        other: 'Ваш & и &'
+    'Data Collected': 'Поставщик доступа'
+    'Data Purpose': Объявление
+    'Third Countries': Европа
+    'Data Purposes': 'Корректировка результатов поиска'
+    'Data transfer to third countries': 'По всему миру'
+    'Technologies Used': Дополнение
+    'Data collected': 'Настраиваемые атрибуты'
+    'Technologies used': 'Дактилоскопирование на устройстве'
+    'Data purpose': 'Персонализация контента'
+    'Retention Period': 'Данные согласия (предоставленное согласие и его отзыв) хранятся в течение трех лет. Затем данные будут немедленно удалены.'
     cu-dashboard-doc-main__hide-relateddf:
-        other: some
+        one: ''
+        few: ''
+        many: ''
+        other: ''

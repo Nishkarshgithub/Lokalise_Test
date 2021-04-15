@@ -1,4 +1,4 @@
-ja:
+zh_CN:
     task_move-task--undo-many: ''
     'New Key': ''
     index.main: ''
@@ -252,7 +252,7 @@ ja:
     'Skip For Now': ''
     'Slideshow Maker': ''
     'Sorry, there were no results found': ''
-    'Start Free Trial': hjbjhhbe
+    'Start Free Trial': j
     'Sticker Maker': ''
     Stickers: ''
     'Style Transfer': ''
@@ -298,22 +298,22 @@ ja:
     'YouTube Banner Maker': ''
     'YouTube Cover': ''
     newkwy: ''
-    'newkey[0]_copy': ''
-    'newkey[0]_copy_copy': ''
+    'newkey[0]_copy': 一些价值
+    'newkey[0]_copy_copy': 一些价值
     frame_2:
-        text: あなたの＆と＆
-    fdxdgchv: '{"other":"\u3042\u306a\u305f\u306e\uff06\u3068\uff06"}'
+        text: 您的＆和＆
+    fdxdgchv: '{"other":"\u60a8\u7684\u65b0{0} {0}"}'
     task:
-        other: あなたの＆と＆
-    'Data Collected': アクセスプロバイダー
-    'Data Purpose': 広告
-    'Third Countries': ヨーロッパ
-    'Data Purposes': 検索結果の調整
-    'Data transfer to third countries': 全世界
-    'Technologies Used': アドオン
-    'Data collected': カスタム属性
-    'Technologies used': デバイスフィンガープリント
-    'Data purpose': コンテンツのパーソナライズ
-    'Retention Period': 同意データ（同意の付与と同意の取り消し）は3年間保存されます。その後、データはすぐに削除されます。
+        other: '您的新{0} {0}'
+    'Data Collected': ''
+    'Data Purpose': ''
+    'Third Countries': ''
+    'Data Purposes': ''
+    'Data transfer to third countries': ''
+    'Technologies Used': ''
+    'Data collected': ''
+    'Technologies used': ''
+    'Data purpose': ''
+    'Retention Period': ''
     cu-dashboard-doc-main__hide-relateddf:
-        other: some
+        other: ''
