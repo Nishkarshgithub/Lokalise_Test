@@ -1,4 +1,4 @@
-ja:
+it:
     task_move-task--undo-many: ''
     'New Key': ''
     index.main: ''
@@ -14,10 +14,12 @@ ja:
     index:
         'main2': ''
         'main':
+            one: ''
             other: ''
     indexcheck: ''
     indexcheck1: ''
     indexcheck10:
+        one: ''
         other: ''
     frame_1:
         new_world_9: ''
@@ -29,6 +31,7 @@ ja:
         new_world_6: ''
         new_world: ''
         new_world_7:
+            one: ''
             other: ''
     '1K+ fonts': ''
     '1K+ templates': ''
@@ -301,19 +304,21 @@ ja:
     'newkey[0]_copy': ''
     'newkey[0]_copy_copy': ''
     frame_2:
-        text: あなたの＆と＆
-    fdxdgchv: '{"other":"\u3042\u306a\u305f\u306e\uff06\u3068\uff06"}'
+        text: 'Il tuo & e &'
+    fdxdgchv: '{"one":"","other":"Il tuo & e &"}'
     task:
-        other: あなたの＆と＆
-    'Data Collected': アクセスプロバイダー
-    'Data Purpose': 広告
-    'Third Countries': ヨーロッパ
-    'Data Purposes': 検索結果の調整
-    'Data transfer to third countries': 全世界
-    'Technologies Used': アドオン
-    'Data collected': カスタム属性
-    'Technologies used': デバイスフィンガープリント
-    'Data purpose': コンテンツのパーソナライズ
-    'Retention Period': 同意データ（同意の付与と同意の取り消し）は3年間保存されます。その後、データはすぐに削除されます。
+        one: ''
+        other: 'Il tuo & e &'
+    'Data Collected': 'Provider di accesso'
+    'Data Purpose': Pubblicità
+    'Third Countries': Europa
+    'Data Purposes': 'Adeguamento dei risultati di ricerca'
+    'Data transfer to third countries': 'In tutto il mondo'
+    'Technologies Used': Add-on
+    'Data collected': 'Attributi personalizzati'
+    'Technologies used': 'Impronta digitale del dispositivo'
+    'Data purpose': 'Personalizzazione dei contenuti'
+    'Retention Period': 'I dati relativi al consenso (consenso prestato e revoca del consenso) sono conservati per tre anni. I dati verranno quindi cancellati immediatamente.'
     cu-dashboard-doc-main__hide-relateddf:
-        other: some
+        one: ''
+        other: ''
