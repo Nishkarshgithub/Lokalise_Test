@@ -1,0 +1,41 @@
+'Data Collected': 'Access provider'
+'Data collected': 'Custom attributes'
+'Data Purpose': Advertisement
+'Data purpose': 'Personalization of content'
+'Data Purposes': 'Adjustment of search results'
+'Data transfer to third countries': Worldwide
+fdxdgchv: '{"one":"","other":"Your New %f %d"}'
+frame_1:
+    new_world: 'NEW WORLD'
+    new_world_10: 'NEW WORLD 10'
+    new_world_2: 'NEW WORLD 2'
+    new_world_3: 'NEW WORLD 3'
+    new_world_4: 'NEW WORLD 4'
+    new_world_5: 'NEW WORLD 5'
+    new_world_6: 'NEW WORLD 6'
+    new_world_7:
+        one: 'some value'
+        other: ''
+    new_world_9: 'NEW WORLD 9'
+frame_2:
+    text: 'Your & and'
+index:
+    'main':
+        one: one
+        other: 'New # value ghv'
+    'main2': index.bitbucket.new
+index.bitbucket.new: index.bitbucket.new
+index.header: 'Making Transaltions Simple.'
+index.main: ''
+index.welcome: 'Welcome to {%s}'
+New_Key: 'Your Glovo Business orders have been scheduled for Glovo batch ID.'
+New_Key_copy: 'Go to 1:00 AM'
+'newkey[0]_copy': 'some value 12345'
+'newkey[0]_copy_copy': 'some value 12345'
+newkwy: This
+'Retention Period': 'The consent data (given consent and revocation of consent) are stored for three year. The data will then be deleted immediately.'
+task_move_task__undo_many: 'Your Glovo batch ID.'
+'Technologies Used': Add-on
+'Technologies used': 'Device fingerprinting'
+'Third Countries': Europe
+нова_стойност_за_проверка_a: 'нова стойност за проверка a'
