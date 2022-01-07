@@ -1,0 +1,6 @@
+en-US:
+    '42753174':
+        89071d63-345d-45f5-afec-db27239a4d9b:
+            title: 'Something to check {{ Some|some }}'
+    index.welcome: 'Welcome to Lokalise'
+    index.header: 'Making Transaltions Simple.'
