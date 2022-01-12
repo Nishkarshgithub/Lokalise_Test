@@ -10,22 +10,27 @@ msgstr ""
 "Language-Team: lokalise.com\n\n"
 "Language: hi_IN\n"
 
-#, fuzzy
+msgid "welcome"
+msgstr "कुछ"
+
+msgid "en.index<TX_DOT>header"
+msgstr "<a href=कुछ> हायर </a>"
+
 msgid "anotherkey"
-msgstr ""
+msgstr "एक और परीक्षण मूल्य"
 
 msgid "index.header"
-msgstr ""
+msgstr "अनुवाद आसान बनाना %s"
 
 msgid "index.main"
-msgstr ""
+msgstr "नमस्ते, यह एक नया परीक्षण है {%name%} %s आपका स्वागत है नया"
 
 msgid "index.welcome"
-msgstr ""
+msgstr "%s आपका स्वागत है नया"
 
+#, fuzzy
 msgid "JSON_TEST_KEY"
 msgstr "नया"
 
-#, fuzzy
 msgid "json_test_key"
-msgstr ""
+msgstr "कुछ और"

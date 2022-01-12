@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Migration Project\n"
+"PO-Revision-Date: 2022-01-12 08:51\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: ja\n"
+
+msgid "welcome"
+msgstr "いくつかの"
+
+msgid "en.index<TX_DOT>header"
+msgstr "<a href=いくつかの> Hier </a>"
+
+msgid "anotherkey"
+msgstr "別のテスト値"
+
+msgid "index.header"
+msgstr "翻訳をシンプルにする。"
+
+msgid "index.main"
+msgstr "こんにちは、これは新しいテストです{%name%} ロカリゼへようこそ"
+
+#, fuzzy
+msgid "index.welcome"
+msgstr "ロカリゼへようこそ"
+
+msgid "JSON_TEST_KEY"
+msgstr "新しいものもう少し"
+
+msgid "json_test_key"
+msgstr "もう少し"
