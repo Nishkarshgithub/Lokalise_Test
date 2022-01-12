@@ -4,11 +4,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.com\n"
-"Project-Id-Version: TESTONE\n"
-"PO-Revision-Date: 2020-11-03 04:55\n"
+"Project-Id-Version: Migration Project\n"
+"PO-Revision-Date: 2022-01-12 08:51\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
-"Language: en\n"
+"Language: en_US\n"
 
 msgid "welcome"
 msgstr "Some"
@@ -23,13 +23,14 @@ msgid "index.header"
 msgstr "Making Translations Simple %s"
 
 msgid "index.main"
-msgstr "Hi, This is a new test {%name%} Welcome to %s NEW ONE Some more"
+msgstr "Hi, This is a new test {%name%} Welcome to %s NEW ONE Third - Second - First"
 
 msgid "index.welcome"
-msgstr "Welcome to %s NEW ONE Some more"
+msgstr "Welcome to %s NEW ONE Third - Second - First"
 
 msgid "JSON_TEST_KEY"
-msgstr "NEW ONE Some more"
+msgstr "NEW ONE Third - Second - First"
 
+#, fuzzy
 msgid "json_test_key"
-msgstr "Some more"
+msgstr "Third - Second - First"
