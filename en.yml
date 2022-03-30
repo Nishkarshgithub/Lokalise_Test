@@ -1,5 +1,5 @@
 en:
-    index.welcome: 'Welcome to %s'
+    index.welcome: 'Welcome to %s some'
     index.header: 'Making Translations Simple %s'
     index.main: 'Hi, This is a new test {%name%}'
 
