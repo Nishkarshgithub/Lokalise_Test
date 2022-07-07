@@ -10,7 +10,7 @@ msgstr ""
 "Language-Team: lokalise.com\n\n"
 "Language: fr_FR\n"
 
-#. SOMEMMOREmoremoremore
+#. SOMEMMOREmo
 #, fuzzy
 msgid "onemore"
-msgstr ""
+msgstr "SOme more"
