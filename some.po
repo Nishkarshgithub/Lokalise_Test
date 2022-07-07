@@ -13,4 +13,4 @@ msgstr ""
 #. 
 #, fuzzy
 msgid "onemore"
-msgstr "SOme more"
+msgstr "SOmemore"
