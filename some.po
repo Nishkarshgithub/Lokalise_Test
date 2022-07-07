@@ -10,5 +10,7 @@ msgstr ""
 "Language-Team: lokalise.com\n\n"
 "Language: fr_FR\n"
 
+#. Fully_changed
+#, fuzzy
 msgid "onemore"
 msgstr "SOmemore"
