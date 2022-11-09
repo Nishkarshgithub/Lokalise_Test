@@ -1,11 +1,6 @@
-en:
-    indexkey: 'At Beary Best! we seek to retain the carefree charms and ways of a
-    backpacker hostel and simply to provide the true essentials: comfortable
-    and good value accommodation.
-    
-    Carefully restored from an art deco heritage building, we offer a calm,
-    laid back and friendly environment with all the facilities.
-    
-    we believe truly matters for travelers... a dedicated lounge/dining area.
-    Multiple female & unisex bathrooms, dorms of various sizes, 
-    bike storage'
+en_GB:
+    'More more222233': '{CUSTOM_NAME_SOME, plural, =0 {} =1 {more} =2 {} other {Some more}}'
+    onDayOffset23456: >-
+      {offset, plural, =1 {on the first} =2 {on the second} =3 {on the third} =4 {on the fourth} =5 {on the fifth} =99
+      {on the last} other {}}
+      
