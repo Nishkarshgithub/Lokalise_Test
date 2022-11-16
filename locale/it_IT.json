@@ -1565,8 +1565,8 @@
     "calendar:tabData:schedule": "",
     "calendar:tabData:week": "",
     "calendar:viewLoadFailureMessage": "",
-    "New_test_to_understand_the__connection_between_the_new_lines": "を理解するための新しいテスト\n新しい回線間の接続",
-    "Another_test_to_understand_the_connection_between_the_new": "理解するための別のテスト\n新しいものとのつながり",
-    "index.welcome": "Lokalise へようこそ",
-    "index.header": "取引をシンプルに。"
+    "New_test_to_understand_the__connection_between_the_new_lines": "Nuovo test per capire il\n collegamento tra le nuove linee",
+    "Another_test_to_understand_the_connection_between_the_new": "Un'altra prova per capire\n la connessione tra il nuovo",
+    "index.welcome": "Benvenuti in Lokalise",
+    "index.header": "Semplificare le traduzioni."
 }
