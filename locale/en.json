@@ -1,10 +1,1572 @@
 {
-    "index.welcome": {
-        "translation": "Welcome to Lokalise",
-        "notes": ""
+    "272": {
+        "1337": {
+            "21034": {
+                "QUESTION_CONTENT": "<p>The layouts in React Native are handled using Flexbox.&nbsp;<\/p><p><br><\/p><p>To render elements side by side horizontally, <strong>which of the following properties would you use?<\/strong><\/p><p><br><\/p>",
+                "72686": {
+                    "72686": "<p><code><strong>flex: ‘row’<\/strong><\/code><span class=\"ql-cursor\">﻿<\/span><\/p>"
+                },
+                "72687": {
+                    "72687": "<p><code><strong>flexDirection: ‘row’<\/strong><\/code><\/p>"
+                },
+                "72688": {
+                    "72688": "<p><code><strong>flexbox: ‘row’<\/strong><\/code><\/p>"
+                },
+                "72689": {
+                    "72689": "<p><code><strong>justifyContent: true<\/strong><\/code><\/p>"
+                }
+            },
+            "21035": {
+                "QUESTION_CONTENT": "<p>To reuse the component logic in React, you can use a higher-order component.&nbsp;<\/p><p><br><\/p><p><strong>What is a higher-order component?<\/strong><\/p><p><br><\/p>",
+                "72690": {
+                    "72690": "<p>A function that takes a component and overrides it.<\/p>"
+                },
+                "72691": {
+                    "72691": "<p>A function that takes a component and extends it.<\/p>"
+                },
+                "72692": {
+                    "72692": "<p>A function that takes a component and returns another component.<\/p>"
+                },
+                "72693": {
+                    "72693": "<p>A function that takes a component and overrides its render function.<\/p>"
+                }
+            },
+            "21036": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following must you use to sign iOS apps before publishing?<\/span><\/p>",
+                "72694": {
+                    "72694": "<p>Distribution profile, distribution certificate, and developer signature<\/p>"
+                },
+                "72695": {
+                    "72695": "<p>Developer profile and distribution certificate<\/p>"
+                },
+                "72696": {
+                    "72696": "<p>Distribution profile and distribution certificate<\/p>"
+                },
+                "72697": {
+                    "72697": "<p>Developer profile and developer certificate<\/p>"
+                }
+            },
+            "21037": {
+                "QUESTION_CONTENT": "<p>Which of the following tools would you use to debug the performance of a React Native Android app?<\/p>",
+                "72698": {
+                    "72698": "<p>systrace<\/p>"
+                },
+                "72699": {
+                    "72699": "<p>perfmon<\/p>"
+                },
+                "72700": {
+                    "72700": "<p>lighthouse<\/p>"
+                },
+                "72701": {
+                    "72701": "<p>chrome dev tools<\/p>"
+                }
+            }
+        },
+        "1340": {
+            "SKILL_AREA_NAME": "UI Development",
+            "21038": {
+                "QUESTION_CONTENT": "<p>How do you center a view inside a view, as shown in the image below?<\/p><p><br><\/p><p><img src=\"production\/2e9fa753-3493-451e-b153-6a86ec643600-cbada812-91d0-426b-be47-1a7b0b2ab318.png\" data-align=\"center\" style=\"display: block; margin: auto;\" width=\"201\" height=\"435.0112017463235\"><\/p>",
+                "72702": {
+                    "72702": "<p><code><strong>style={{alignItems: ‘center’, justifyContent: ‘center’}}<\/strong><\/code><\/p>"
+                },
+                "72703": {
+                    "72703": "<p><code><strong>style={{align: ‘center’}}<\/strong><\/code><\/p>"
+                },
+                "72704": {
+                    "72704": "<p><code><strong>style={{alignItems: ‘middle’, justifyContent: ‘middle’}}<\/strong><\/code><\/p>"
+                },
+                "72705": {
+                    "72705": "<p><code><strong>style={{textAlign: ‘center’}}<\/strong><\/code><\/p>"
+                }
+            },
+            "21039": {
+                "QUESTION_CONTENT": "<p>Which of the layouts available below would the following code return?&nbsp;<\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{flex:1}}<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{flex:<\/span> <span class=\"hljs-attr\">1<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">green<\/span>'}}\/&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{flex:<\/span> <span class=\"hljs-attr\">4<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">red<\/span>'}}\/&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{flex:<\/span> <span class=\"hljs-attr\">3<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">blue<\/span>'}}\/&gt;<\/span>\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>&nbsp;\n<\/pre><p><br><\/p><p><img src=\"production\/009c490b-5dd9-4087-ae88-b578bf8ce09d-c0bc11b2-99ca-441f-9cce-9742b800ba19.png\"><\/p>"
+            },
+            "21040": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Which of the following would you use to render a scrollable container as shown below? <\/span><\/p><p><br><\/p><p><img src=\"production\/30b99c64-50ca-464e-a0e2-c8ddeb1a0fe2-6d41fb5e-0560-4a03-9761-c45a29704028.gif\" style=\"display: block; margin: auto;\"><\/p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿<\/span><\/p>",
+                "72710": {
+                    "72710": "<p><code><strong>&lt;SafeAreaView \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72711": {
+                    "72711": "<p><code><strong>&lt;View style={{overflow: scroll}} \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72712": {
+                    "72712": "<p><code><strong>&lt;ScrollView \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72713": {
+                    "72713": "<p><code><strong>&lt;View overflowY={true} \/&gt;<\/strong><\/code><\/p>"
+                }
+            },
+            "21041": {
+                "QUESTION_CONTENT": "<p>How is React Native Flexbox UI rendering realized?<\/p>",
+                "72714": {
+                    "72714": "<p>Natively on both Android and iOS<\/p>"
+                },
+                "72715": {
+                    "72715": "<p>By Yoga engine under the hood<\/p>"
+                },
+                "72716": {
+                    "72716": "<p>Only inside the WebView<\/p>"
+                },
+                "72717": {
+                    "72717": "<p>Using Flipper<\/p>"
+                }
+            },
+            "21042": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Which of the following statements is true about the <\/span><code><strong>letterSpacing<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> style property?<\/span><\/p>",
+                "72718": {
+                    "72718": "<p>The <code><strong>letterSpacing<\/strong><\/code> property works the same on Android and iOS.<\/p>"
+                },
+                "72719": {
+                    "72719": "<p>The <code><strong>letterSpacing<\/strong><\/code> property is not supported on Android.<\/p>"
+                },
+                "72720": {
+                    "72720": "<p>The <code><strong>letterSpacing<\/strong><\/code> property is supported on Android but only on versions 5+.<\/p>"
+                },
+                "72721": {
+                    "72721": "<p>The <code><strong>letterSpacing<\/strong><\/code> property is not supported on iOS.<\/p>"
+                }
+            },
+            "21043": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How do you reference a fontFamily?<\/span><\/p>",
+                "72722": {
+                    "72722": "<p>Using the full font name on iOS and the file name on Android.<\/p>"
+                },
+                "72723": {
+                    "72723": "<p>Using the file name on both iOS and Android.<\/p>"
+                },
+                "72724": {
+                    "72724": "<p>Using the full font name on both iOS and Android.<\/p>"
+                },
+                "72725": {
+                    "72725": "<p>Using the full font name and its weight on both iOS and Android.<\/p>"
+                }
+            },
+            "21044": {
+                "QUESTION_CONTENT": "<p>Consider the animation definition given below. How would you start it and call the <code><strong>animationFinishedCallback<\/strong><\/code> function once the animation is finished?<\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-string\">constanimation=Animate.timing(fadeAnim,<\/span> <span class=\"hljs-string\">{<\/span>\n&nbsp;<span class=\"hljs-attr\">toValue:<\/span> <span class=\"hljs-number\">1<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;<span class=\"hljs-attr\">duration:<\/span> <span class=\"hljs-number\">300<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;<span class=\"hljs-attr\">useNativeDriver:<\/span> <span class=\"hljs-literal\">true<\/span><span class=\"hljs-string\">,<\/span>\n<span class=\"hljs-string\">});<\/span>\n<\/pre>",
+                "72726": {
+                    "72726": "<p><code><strong>animation.start(animationFinishedCallback);<\/strong><\/code><\/p>"
+                },
+                "72727": {
+                    "72727": "<p><code><strong>animation.addEventListener('finish',animationFinishedCallback);<\/strong><\/code><\/p>"
+                },
+                "72728": {
+                    "72728": "<p><code><strong>animation.addEventListener('complete', animationFinishedCallback);<\/strong><\/code><\/p>"
+                },
+                "72729": {
+                    "72729": "<p><code><strong>animation.start().then(animationFinishedCallback);<\/strong><\/code><\/p>"
+                }
+            },
+            "21045": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">What does the following code do?<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span>{height} = Dimensions.<span class=\"hljs-keyword\">get<\/span>(<span class=\"hljs-string\">'window'<\/span>);\n<\/pre><p><br><\/p><p><br><\/p><p><br><\/p>",
+                "72730": {
+                    "72730": "<p>It assigns the height of the application window to a height constant.<\/p>"
+                },
+                "72731": {
+                    "72731": "<p>It assigns the height of the in-app window to a height constant.<\/p>"
+                },
+                "72732": {
+                    "72732": "<p>It creates an object with a single property height using the height of the current view as its value.<\/p>"
+                },
+                "72733": {
+                    "72733": "<p>It creates an object with a single property height using the height of the current window as its value.<\/p>"
+                }
+            },
+            "21046": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Which of the following statements about <\/span><code><strong>StatusBar<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> are true?<\/span><\/p>",
+                "72734": {
+                    "72734": "<p>StatusBar properties can be controlled using a <code><strong>&lt;StatusBar\/&gt;<\/strong><\/code> component.<\/p>"
+                },
+                "72735": {
+                    "72735": "<p>StatusBar properties can be controlled using an imperative API.<\/p>"
+                },
+                "72736": {
+                    "72736": "<p>StatusBar properties can only be controlled using a third-party library.<\/p>"
+                },
+                "72737": {
+                    "72737": "<p>StatusBar properties can only be controlled using properties baked into AndroidManifest.xml and Info.plist.<\/p>"
+                }
+            },
+            "21047": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Which of the following will output a container with 'bg.png' as a background image?<\/span><\/p>",
+                "72738": {
+                    "72738": "<p><code><strong>&lt;View style={{background: url('bg.png')}}\/&gt;<\/strong><\/code><\/p>"
+                },
+                "72739": {
+                    "72739": "<p><code><strong>&lt;View background={require('bg.png')}\/&gt;<\/strong><\/code><\/p>"
+                },
+                "72740": {
+                    "72740": "<p><code><strong>&lt;ImageBackground source={require('bg.png')}\/&gt;<\/strong><\/code><\/p>"
+                },
+                "72741": {
+                    "72741": "<p><code><strong>&lt;Image source={require('bg.png')} background={true}\/&gt;<\/strong><\/code><\/p>"
+                }
+            },
+            "21048": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What happens when you nest a FlatList inside a ScrollView and the content in ScrollView exceeds the screen height?<\/span><\/p>",
+                "72742": {
+                    "72742": "<p>Neither the FlatList nor the ScrollView will scroll.<\/p>"
+                },
+                "72743": {
+                    "72743": "<p>Only the FlatList will scroll.<\/p>"
+                },
+                "72744": {
+                    "72744": "<p>Only the ScrollView will scroll.<\/p>"
+                },
+                "72745": {
+                    "72745": "<p>Both will scroll by the same offset.<\/p>"
+                }
+            },
+            "21049": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Do you have to ask for permission to send push notifications on Android during runtime?<\/span><\/p>",
+                "72746": {
+                    "72746": "<p>No, you don’t have to ask for permission.<\/p>"
+                },
+                "72747": {
+                    "72747": "<p>Yes, but only for rich push notifications.<\/p>"
+                },
+                "72748": {
+                    "72748": "<p>Yes, you always have to ask if the app can use push notifications.<\/p>"
+                },
+                "72749": {
+                    "72749": "<p>It depends. If the user rejected the push permission during app installation, you have to ask for it during runtime.<\/p>"
+                }
+            },
+            "21050": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(60, 64, 67);\">Which of the following values is allowed as the display property value in React Native<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">?<\/span><\/p>",
+                "72750": {
+                    "72750": "<p>‘none’ and ‘flex’<\/p>"
+                },
+                "72751": {
+                    "72751": "<p>‘none’, ‘flex’, ‘absolute’<\/p>"
+                },
+                "72752": {
+                    "72752": "<p>‘none’, ‘flex’, ‘absolute’, ‘inline’, ‘inline-block’, ‘block’<\/p>"
+                },
+                "72753": {
+                    "72753": "<p>‘relative’, ‘absolute’, ‘flex’<\/p>"
+                }
+            },
+            "21051": {
+                "QUESTION_CONTENT": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">True of false: <\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">React Native supports z-index.<\/span><\/p>"
+            },
+            "21052": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How can you check the device’s OS version?<\/span><\/p>",
+                "72756": {
+                    "72756": "<p>Using the Version property from the Platform module (Platform.Version).<\/p>"
+                },
+                "72757": {
+                    "72757": "<p>By integrating a third-party native plugin for that.<\/p>"
+                },
+                "72758": {
+                    "72758": "<p>Using the Platform.OS.Version property.<\/p>"
+                },
+                "72759": {
+                    "72759": "<p>Using the getPlatformVersion hook.<\/p>"
+                }
+            },
+            "21053": {
+                "QUESTION_CONTENT": "<p><strong>True or false: <\/strong>You can use separate files for platform-specific JS code for Android and iOS simply by suffixing the file name with <code><strong>*.android.js<\/strong><\/code> or <code><strong>*.ios.js<\/strong><\/code>.<\/p>"
+            },
+            "21054": {
+                "QUESTION_CONTENT": "<p>What happens when a component has an <code><strong>accessible={true}<\/strong><\/code> property?<\/p>",
+                "72762": {
+                    "72762": "<p>Its content will be read out loud by the screen reader.<\/p>"
+                },
+                "72763": {
+                    "72763": "<p>Its content will be zoomed in.<\/p>"
+                },
+                "72764": {
+                    "72764": "<p>All component children will be grouped into a single selectable component.<\/p>"
+                },
+                "72765": {
+                    "72765": "<p>It won’t be visible on the screen, but will be read out by a screen reader.<\/p>"
+                }
+            },
+            "21055": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is PanResponder used for?<\/span><\/p>",
+                "72766": {
+                    "72766": "<p>To handle multi-touch events.<\/p>"
+                },
+                "72767": {
+                    "72767": "<p>To render views that scroll in every direction.<\/p>"
+                },
+                "72768": {
+                    "72768": "<p>To create views that have no boundaries and grow with content.<\/p>"
+                },
+                "72769": {
+                    "72769": "<p>To allow smooth transitions of views.<\/p>"
+                }
+            },
+            "21056": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">What is the best way to animate a scaling square as shown in the gif below?<\/span><\/p><p><br><\/p><p><img src=\"production\/a3eaaa3c-a84d-4bd9-aced-dfe62d2679d1-7c4e3a9e-553f-43f1-b978-3c68e7222f1a.gif\"><\/p>",
+                "72770": {
+                    "72770": "<p>Use state properties for width and height and update them in a loop.<\/p>"
+                },
+                "72771": {
+                    "72771": "<p>Use state properties for width and height and update them inside a setInterval function.<\/p>"
+                },
+                "72772": {
+                    "72772": "<p>Use the animated library built into React Native.<\/p>"
+                },
+                "72773": {
+                    "72773": "<p>Use an animated gif.<\/p>"
+                }
+            },
+            "21057": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How can you detect if the app has been closed?<\/span><\/p>",
+                "72774": {
+                    "72774": "<p>On the server side, call an API every couple of seconds. When it is not being called anymore, it means that the app has been closed.<\/p>"
+                },
+                "72775": {
+                    "72775": "<p>There are third-party libraries that help you do that.<\/p>"
+                },
+                "72776": {
+                    "72776": "<p>Use the built-in AppState module.<\/p>"
+                },
+                "72777": {
+                    "72777": "<p>It is impossible to check that in React Native.<\/p>"
+                }
+            },
+            "21058": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Consider the component given below. Assume that <\/span><code><strong>getListItems<\/strong><\/code><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> is a function accepting a <\/span><code><strong>currentPage<\/strong><\/code><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> parameter and triggers a redux store update with the items for a given page. <\/span><span style=\"color: rgb(0, 0, 0);\">Assume also that <\/span><code><strong>listItems<\/strong><\/code><span style=\"color: rgb(0, 0, 0);\"> is a property coming from Redux store using the connect helper function<\/span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;<\/span><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">How can you modify the existing component in order to load the data when the scroll gets toward the end of the list?<\/strong><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span> MyListComponent = <span class=\"hljs-function\">(<span class=\"hljs-params\">{listItems, getListItems}<\/span>) =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-keyword\">const<\/span> currentPage = <span class=\"hljs-number\">0<\/span>;\n&nbsp;&nbsp;&nbsp;useEffect(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;getListItems(<span class=\"hljs-number\">0<\/span>)\n&nbsp;&nbsp;&nbsp;}, [])\n&nbsp;&nbsp;&nbsp;\n  <span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">FlatList<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">data<\/span>=<span class=\"hljs-string\">{listItems}<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">keyExtractor<\/span>=<span class=\"hljs-string\">{(item)<\/span> =&gt;<\/span> item.id}\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;renderItem={(item) =&gt; <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>{item.name}<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>}\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\/&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;);\n}\n<\/pre>",
+                "72778": {
+                    "72778": "<p>Add the following property to the FlatList:<\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\">onEndReached={()=&gt; {\n  currentPage += 1;\n  getListItems(currentPage);\n})\n<\/pre>"
+                },
+                "72779": {
+                    "72779": "<p>Use the following hook in the component:<\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\">onEndReached(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span>=&gt;<\/span> {\n  currentPage += <span class=\"hljs-number\">1<\/span>;\n  getListItems(currentPage);\n})\n<\/pre>"
+                },
+                "72780": {
+                    "72780": "<p>Fetch all the data in the useEffect hook before rendering the FlatList.<\/p>"
+                },
+                "72781": {
+                    "72781": "<p>Add the following property to the FlatList:<\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\">footer={() =&gt; {\n  currentPage += 1;\n  getListItems(currentPage);\n}}\n<\/pre>"
+                }
+            },
+            "21059": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following code snippets achieves what is shown in the image below?<\/span><\/p><p><br><\/p><p><img src=\"production\/c9bf0373-b2cd-46d2-b6f0-417e8ee6910e-e9e2b2b6-cf12-48ac-a8a1-05cf6fe7d6bf.png\" height=\"450.8368794326241\" width=\"232\" style=\"display: inline; margin: 0px 1em 1em 0px; float: left;\" data-align=\"left\"><\/p>",
+                "72782": {
+                    "72782": "<pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Image<\/span> <span class=\"hljs-attr\">source<\/span>=<span class=\"hljs-string\">{{uri:<\/span> <span class=\"hljs-attr\">imageUrl<\/span>}} <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{flex:<\/span> <span class=\"hljs-attr\">1<\/span>, <span class=\"hljs-attr\">justifyContent:<\/span> '<span class=\"hljs-attr\">center<\/span>', <span class=\"hljs-attr\">alignItems:<\/span> '<span class=\"hljs-attr\">center<\/span>'}}&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>Hello World!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Image<\/span>&gt;<\/span>\n<\/pre>"
+                },
+                "72783": {
+                    "72783": "<pre class=\"ql-syntax\" spellcheck=\"false\">&lt;View style={{<span class=\"hljs-attr\">flex<\/span>: <span class=\"hljs-number\">1<\/span>, <span class=\"hljs-attr\">justifyContent<\/span>: <span class=\"hljs-string\">'center'<\/span>, <span class=\"hljs-attr\">alignItems<\/span>: <span class=\"hljs-string\">'center'<\/span>, <span class=\"hljs-attr\">backgroundImage<\/span>: url(imageUrl)}}&gt;\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>Hello World!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n<\/pre>"
+                },
+                "72784": {
+                    "72784": "<pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">ImageBackground<\/span> <span class=\"hljs-attr\">source<\/span>=<span class=\"hljs-string\">{{uri:<\/span> <span class=\"hljs-attr\">imageUrl<\/span>}} <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{flex:<\/span> <span class=\"hljs-attr\">1<\/span>, <span class=\"hljs-attr\">justifyContent:<\/span> '<span class=\"hljs-attr\">center<\/span>', <span class=\"hljs-attr\">alignItems:<\/span> '<span class=\"hljs-attr\">center<\/span>'}}&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>Hello World!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">ImageBackground<\/span>&gt;<\/span>\n<\/pre>"
+                },
+                "72785": {
+                    "72785": "<pre class=\"ql-syntax\" spellcheck=\"false\">&lt;Text style={{<span class=\"hljs-attr\">flex<\/span>: <span class=\"hljs-number\">1<\/span>, <span class=\"hljs-attr\">textAlign<\/span>: <span class=\"hljs-string\">'center'<\/span>, <span class=\"hljs-attr\">justifyContent<\/span>: <span class=\"hljs-string\">'center'<\/span>, <span class=\"hljs-attr\">alignItems<\/span>: <span class=\"hljs-string\">'center'<\/span>, <span class=\"hljs-attr\">background<\/span>: {<span class=\"hljs-attr\">uri<\/span>: imageUrl}}}&gt;Hello World!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n<\/pre>"
+                }
+            },
+            "21060": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following code snippets lets you achieve what is shown in the image below?<\/span><\/p><p><br><\/p><p><img src=\"production\/53e7a9e3-e0c8-4960-8cbb-f550e1e5e824-415f3a6c-4f7c-40ab-a675-439ce5162d8b.png\"><\/p>",
+                "72786": {
+                    "72786": "<pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-string\">&lt;View<\/span> <span class=\"hljs-string\">style={{flex:<\/span> <span class=\"hljs-number\">1<\/span><span class=\"hljs-string\">,<\/span> <span class=\"hljs-attr\">alignItems:<\/span> <span class=\"hljs-string\">'center',<\/span> <span class=\"hljs-attr\">justifyContent:<\/span> <span class=\"hljs-string\">'center'}}&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">&lt;View<\/span> <span class=\"hljs-string\">style={{width:<\/span> <span class=\"hljs-number\">50<\/span><span class=\"hljs-string\">,<\/span> <span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-number\">50<\/span><span class=\"hljs-string\">,<\/span> <span class=\"hljs-attr\">backgroundColor:<\/span> <span class=\"hljs-string\">'red',<\/span> <span class=\"hljs-attr\">zIndex:<\/span> <span class=\"hljs-number\">1<\/span><span class=\"hljs-string\">}}&gt;&lt;\/View&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">&lt;View<\/span> <span class=\"hljs-string\">style={{width:<\/span> <span class=\"hljs-number\">50<\/span><span class=\"hljs-string\">,<\/span> <span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-number\">50<\/span><span class=\"hljs-string\">,<\/span> <span class=\"hljs-attr\">backgroundColor:<\/span> <span class=\"hljs-string\">'green',<\/span> <span class=\"hljs-attr\">zIndex:<\/span> <span class=\"hljs-number\">2<\/span><span class=\"hljs-string\">,<\/span> <span class=\"hljs-attr\">marginTop:<\/span> <span class=\"hljs-bullet\">-10<\/span><span class=\"hljs-string\">,<\/span> <span class=\"hljs-attr\">marginLeft:<\/span> <span class=\"hljs-number\">10<\/span><span class=\"hljs-string\">}}&gt;&lt;\/View&gt;<\/span>\n<span class=\"hljs-string\">&lt;\/View&gt;<\/span>\n<\/pre>"
+                },
+                "72787": {
+                    "72787": "<pre class=\"ql-syntax\" spellcheck=\"false\">&lt;View style={{<span class=\"hljs-attr\">flex<\/span>: <span class=\"hljs-number\">1<\/span>, <span class=\"hljs-attr\">alignItems<\/span>: <span class=\"hljs-string\">'center'<\/span>, <span class=\"hljs-attr\">justifyContent<\/span>: <span class=\"hljs-string\">'center'<\/span>}}&gt;\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{width:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">red<\/span>'}}&gt;&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{width:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">green<\/span>', <span class=\"hljs-attr\">zIndex:<\/span> <span class=\"hljs-attr\">1<\/span>, <span class=\"hljs-attr\">marginTop:<\/span> <span class=\"hljs-attr\">-10<\/span>, <span class=\"hljs-attr\">marginLeft:<\/span> <span class=\"hljs-attr\">10<\/span>}}&gt;&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n<\/pre>"
+                },
+                "72788": {
+                    "72788": "<pre class=\"ql-syntax\" spellcheck=\"false\">&lt;View style={{<span class=\"hljs-attr\">flex<\/span>: <span class=\"hljs-number\">1<\/span>, <span class=\"hljs-attr\">alignItems<\/span>: <span class=\"hljs-string\">'center'<\/span>, <span class=\"hljs-attr\">justifyContent<\/span>: <span class=\"hljs-string\">'center'<\/span>}}&gt;\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{width:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">red<\/span>'}}&gt;&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{width:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">green<\/span>', <span class=\"hljs-attr\">marginTop:<\/span> <span class=\"hljs-attr\">-10<\/span>, <span class=\"hljs-attr\">marginLeft:<\/span> <span class=\"hljs-attr\">10<\/span>}}&gt;&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n<\/pre>"
+                },
+                "72789": {
+                    "72789": "<pre class=\"ql-syntax\" spellcheck=\"false\">&lt;View style={{<span class=\"hljs-attr\">flex<\/span>: <span class=\"hljs-number\">1<\/span>, <span class=\"hljs-attr\">alignItems<\/span>: <span class=\"hljs-string\">'center'<\/span>, <span class=\"hljs-attr\">justifyContent<\/span>: <span class=\"hljs-string\">'center'<\/span>}}&gt;\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{width:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">red<\/span>', <span class=\"hljs-attr\">zIndex:<\/span> <span class=\"hljs-attr\">1<\/span>}}&gt;&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{width:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-attr\">50<\/span>, <span class=\"hljs-attr\">backgroundColor:<\/span> '<span class=\"hljs-attr\">green<\/span>', <span class=\"hljs-attr\">marginTop:<\/span> <span class=\"hljs-attr\">-10<\/span>, <span class=\"hljs-attr\">marginLeft:<\/span> <span class=\"hljs-attr\">10<\/span>}}&gt;&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n<\/pre>"
+                }
+            },
+            "21061": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following code snippets lets you achieve what is shown in the image below <\/span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">on Android<\/strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">?<\/span><\/p><p><br><\/p><p><img src=\"production\/f9764f20-7feb-4e9c-bdfa-214dc12b4376-fc6e461d-e03c-4b72-8de8-fbf5335938b5.png\"><\/p>",
+                "72790": {
+                    "72790": "<pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-string\">&lt;View<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">style={{<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">borderWidth:<\/span> <span class=\"hljs-number\">1<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">borderColor:<\/span> <span class=\"hljs-string\">'black',<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">width:<\/span> <span class=\"hljs-number\">150<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-number\">150<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">elevation:<\/span> <span class=\"hljs-number\">12<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">backgroundColor:<\/span> <span class=\"hljs-string\">'white',<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">}}<\/span>\n<span class=\"hljs-string\">\/&gt;<\/span>\n<\/pre>"
+                },
+                "72791": {
+                    "72791": "<pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-string\">&lt;View<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">style={{<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">borderWidth:<\/span> <span class=\"hljs-number\">1<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">borderColor:<\/span> <span class=\"hljs-string\">'black',<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">width:<\/span> <span class=\"hljs-number\">150<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-number\">150<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">shadowColor:<\/span> <span class=\"hljs-string\">'#000',<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">shadowOffset:<\/span> <span class=\"hljs-string\">{<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">width:<\/span> <span class=\"hljs-number\">0<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-number\">6<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">},<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">shadowOpacity:<\/span> <span class=\"hljs-number\">0.37<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">shadowRadius:<\/span> <span class=\"hljs-number\">7.49<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">backgroundColor:<\/span> <span class=\"hljs-string\">'white',<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">}}<\/span>\n<span class=\"hljs-string\">\/&gt;<\/span>\n<\/pre>"
+                },
+                "72792": {
+                    "72792": "<pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-string\">&lt;View<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">style={{<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">borderWidth:<\/span> <span class=\"hljs-number\">1<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">borderColor:<\/span> <span class=\"hljs-string\">'black',<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">width:<\/span> <span class=\"hljs-number\">150<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">height:<\/span> <span class=\"hljs-number\">150<\/span><span class=\"hljs-string\">,<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">boxShadow:<\/span> <span class=\"hljs-string\">'0 0 8 0 rgba(0, 0, 0, 0.37)',<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">backgroundColor:<\/span> <span class=\"hljs-string\">'white',<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">}}<\/span>\n<span class=\"hljs-string\">\/&gt;<\/span>\n<\/pre>"
+                },
+                "72793": {
+                    "72793": "<p>It is impossible to achieve that without additional images in png format.<\/p>"
+                }
+            },
+            "21062": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following components would you use to achieve the effect shown in the gif below?<\/span><\/p><p><br><\/p><p><img src=\"production\/1efda523-c6c9-4f4e-b4eb-a61c3b36fbe9-1010b039-61b5-4f72-b924-a79ab583ffb7.gif\"><\/p>",
+                "72794": {
+                    "72794": "<p><code><strong>&lt;TouchableWithoutFeedback \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72795": {
+                    "72795": "<p><code><strong>&lt;TouchableOpacity \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72796": {
+                    "72796": "<p><code><strong>&lt;TouchableHighlight \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72797": {
+                    "72797": "<p><code><strong>&lt;Button \/&gt;<\/strong><\/code><\/p>"
+                }
+            },
+            "21063": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Considering the view shown in the image below, what is a common way of making sure that the keyboard is dismissed whenever a user taps anywhere in the red area?<\/span><\/p><p><br><\/p><p><img src=\"production\/4ab13b19-2299-40e6-b246-9e1a12e8220b-d4387beb-14ec-44ab-8f87-048e17ab54c0.png\" style=\"\" width=\"256\" height=\"465.61467889908255\"><\/p>",
+                "72798": {
+                    "72798": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Wrap the inputs within a <\/span><code><strong>&lt;ScrollView \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72799": {
+                    "72799": "<p>Wrap the inputs within a <code><strong>&lt;ScrollView keyboardShouldPersistTaps=’always’} \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72800": {
+                    "72800": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Wrap the inputs in a <\/span><code><strong>&lt;KeyboardAvoidingView \/&gt;<\/strong><\/code><\/p>"
+                },
+                "72801": {
+                    "72801": "<p>Wrap the inputs in a <code><strong>&lt;TouchableWithoutFeedback onPress={Keyboard.dismiss} \/&gt;<\/strong><\/code><\/p>"
+                }
+            },
+            "21064": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Assume a <\/span><code><strong>&lt;View\/&gt;<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> is a PanResponder.&nbsp;<\/span><\/p><p><br><\/p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Which of the following config callbacks would you use to console.log the coordinates of current tap (onPress)?<\/strong><\/p><p><br><\/p>",
+                "72802": {
+                    "72802": "<p><code><strong>onPanResponderGrant<\/strong><\/code><\/p>"
+                },
+                "72803": {
+                    "72803": "<p><code><strong>onPanResponderMove<\/strong><\/code><\/p>"
+                },
+                "72804": {
+                    "72804": "<p><code><strong>onPanResponderRelease<\/strong><\/code><\/p>"
+                },
+                "72805": {
+                    "72805": "<p><code><strong>onPanResponderTerminate<\/strong><\/code><\/p>"
+                }
+            },
+            "21065": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">In react-navigation v5+, you have a setup where the app navigation is defined as shown in the code below.<\/span><\/p><p><br><\/p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Which view is going to be loaded on when the app launches?<\/strong><\/p><p><br><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\">&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">NavigationContainer<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Stack.Navigator<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Stack.Screen<\/span> <span class=\"hljs-attr\">name<\/span>=<span class=\"hljs-string\">\"Home\"<\/span> <span class=\"hljs-attr\">component<\/span>=<span class=\"hljs-string\">{HomeScreen}<\/span> \/&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Stack.Screen<\/span> <span class=\"hljs-attr\">name<\/span>=<span class=\"hljs-string\">\"Index\"<\/span> <span class=\"hljs-attr\">component<\/span>=<span class=\"hljs-string\">{IndexScreen}<\/span> \/&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Stack.Screen<\/span> <span class=\"hljs-attr\">name<\/span>=<span class=\"hljs-string\">\"Main\"<\/span> <span class=\"hljs-attr\">component<\/span>=<span class=\"hljs-string\">{MainScreen}<\/span> \/&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Stack.Screen<\/span> <span class=\"hljs-attr\">name<\/span>=<span class=\"hljs-string\">\"Default\"<\/span> <span class=\"hljs-attr\">component<\/span>=<span class=\"hljs-string\">{DefaultScreen}<\/span> \/&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Stack.Navigator<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">NavigationContainer<\/span>&gt;<\/span>\n<\/pre>",
+                "72806": {
+                    "72806": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Default<\/span><\/p>"
+                },
+                "72807": {
+                    "72807": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Index<\/span><\/p>"
+                },
+                "72808": {
+                    "72808": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Main<\/span><\/p>"
+                },
+                "72809": {
+                    "72809": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Home<\/span><\/p>"
+                }
+            },
+            "21066": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">In react-navigation v5+, what does the following piece of code do?<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\">navigation.dispatch(\n&nbsp;&nbsp;&nbsp;CommonActions.reset({\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attribute\">index<\/span>: <span class=\"hljs-number\">1<\/span>,\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;routes: [\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{name: <span class=\"hljs-string\">'Home'<\/span>},\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<span class=\"hljs-attribute\">name<\/span>: <span class=\"hljs-string\">'Profile'<\/span>},\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;],\n&nbsp;&nbsp;&nbsp;}),\n&nbsp;);\n<\/pre>",
+                "72810": {
+                    "72810": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">It removes the views from stack and sets the array passed via routes property as a new stack, and sets the current view at index 1.<\/span><\/p>"
+                },
+                "72811": {
+                    "72811": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">It resets the whole stack navigation definition so only Home and Profile views are available.<\/span><\/p>"
+                },
+                "72812": {
+                    "72812": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">It resets the whole app and navigates to the view indicated by index property.<\/span><\/p>"
+                },
+                "72813": {
+                    "72813": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">It unmounts the Home and Profile views so that when loaded the next time, their constructors will be executed.<\/span><\/p>"
+                }
+            }
+        },
+        "1343": {
+            "SKILL_AREA_NAME": "React Framework",
+            "21067": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Which of the following can you use instead of the <\/span><code><strong>componentDidMount<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> lifecycle method?<\/span><\/p>",
+                "72814": {
+                    "72814": "<p><code><strong>useState<\/strong><\/code> hook<\/p>"
+                },
+                "72815": {
+                    "72815": "<p><code><strong>useEffect<\/strong><\/code> hook<\/p>"
+                },
+                "72816": {
+                    "72816": "<p><code><strong>didMount<\/strong><\/code> higher-order component<\/p>"
+                },
+                "72817": {
+                    "72817": "<p>a functional component<\/p>"
+                }
+            },
+            "21068": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What happens when you update the state?<\/span><\/p>",
+                "72818": {
+                    "72818": "<p>The component re-renders.<\/p>"
+                },
+                "72819": {
+                    "72819": "<p>The constructor executes.<\/p>"
+                },
+                "72820": {
+                    "72820": "<p><code><strong>ComponentWillUnmount<\/strong><\/code> executes.<\/p>"
+                },
+                "72821": {
+                    "72821": "<p><code><strong>ComponentDidMount<\/strong><\/code> executes.<\/p>"
+                }
+            },
+            "21069": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Given that React components have to act as pure functions with respect to their props, which of the following is true?<\/span><\/p>",
+                "72822": {
+                    "72822": "<p>React components have to use all the props passed to them.<\/p>"
+                },
+                "72823": {
+                    "72823": "<p>React components have to accept objects containing their props.<\/p>"
+                },
+                "72824": {
+                    "72824": "<p>React components cannot have additional variables internally and can only use props.<\/p>"
+                },
+                "72825": {
+                    "72825": "<p>React components cannot mutate their props and always return the same output for the same input<span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.<\/span><\/p>"
+                }
+            },
+            "21070": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is JSX?<\/span><\/p>",
+                "72826": {
+                    "72826": "<p>A template engine<\/p>"
+                },
+                "72827": {
+                    "72827": "<p>A newer version of JavaScript<\/p>"
+                },
+                "72828": {
+                    "72828": "<p>A JavaScript syntax extension<\/p>"
+                },
+                "72829": {
+                    "72829": "<p>A package manager for JavaScript<\/p>"
+                }
+            },
+            "21071": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">What will be the result of the following code if <\/span><code><strong>isLoggedIn<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> is false?<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\">{!isLoggedIn &amp;&amp; <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>Hi, Anonymous!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>} \n<\/pre>",
+                "72830": {
+                    "72830": "<p>It will render “‘Hi, Anonymous!” text.<\/p>"
+                },
+                "72831": {
+                    "72831": "<p>Nothing will be rendered.<\/p>"
+                },
+                "72832": {
+                    "72832": "<p>A JS exception will be thrown.<\/p>"
+                },
+                "72833": {
+                    "72833": "<p>It will print out ‘true’.<\/p>"
+                }
+            },
+            "21072": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">What happens when an empty array is passed as a second argument to <\/span><code><strong>useEffect<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> hook?<\/span><\/p>",
+                "72834": {
+                    "72834": "<p>It will run the hook in an infinite loop.<\/p>"
+                },
+                "72835": {
+                    "72835": "<p>It will run the hook on any property change.<\/p>"
+                },
+                "72836": {
+                    "72836": "<p>It will run the hook on every internal component variable value change.<\/p>"
+                },
+                "72837": {
+                    "72837": "<p>It will run the hook only once.<\/p>"
+                }
+            },
+            "21073": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Based on the code below, how would you render the View passed into MyWrappingComponent?<\/span><\/p><p><br><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">MyWrappingComponent<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>Something<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>&nbsp;&nbsp;&nbsp;\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>  \n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">MyWrappingComponent<\/span>&gt;<\/span>\n<\/pre><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">&nbsp;<\/span><\/p>",
+                "72838": {
+                    "72838": "<p>Using the <code><strong>useChild()<\/strong><\/code> hook.<\/p>"
+                },
+                "72839": {
+                    "72839": "<p>Using the children property.<\/p>"
+                },
+                "72840": {
+                    "72840": "<p>Using a children state property.<\/p>"
+                },
+                "72841": {
+                    "72841": "<p>Using the child property.<\/p>"
+                }
+            },
+            "21074": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">What does <\/span><code><strong>React.cloneElement<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> do? <\/span><\/p>",
+                "72842": {
+                    "72842": "<p>Clones the element but never modifies it.<\/p>"
+                },
+                "72843": {
+                    "72843": "<p>Clones the element but strips down all the children.<\/p>"
+                },
+                "72844": {
+                    "72844": "<p>Clones the element, merges props if passed, and replaces children if passed.<\/p>"
+                },
+                "72845": {
+                    "72845": "<p>Clones the element, replaces props if passed, and replaces children if passed.<\/p>"
+                }
+            },
+            "21075": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">How can a React functional component render an <\/span><code><strong>&lt;h1&gt;sample&lt;\/h1&gt;<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">?<\/span><\/p>",
+                "72846": {
+                    "72846": "<p>Through the return statement: return <code><strong>&lt;h1&gt;sample&lt;\/h1&gt;<\/strong><\/code>.<\/p>"
+                },
+                "72847": {
+                    "72847": "<p>Through an internal function called render that returns <code><strong>&lt;h1&gt;sample&lt;\/h1&gt;<\/strong><\/code>.<\/p>"
+                },
+                "72848": {
+                    "72848": "<p>Through a const called render with a value <code><strong>&lt;h1&gt;sample&lt;\/h1&gt;<\/strong><\/code> assigned to it.<\/p>"
+                },
+                "72849": {
+                    "72849": "<p>Through a state property called render with a value <code><strong>&lt;h1&gt;sample&lt;\/h1&gt;<\/strong><\/code> assigned to it.<\/p>"
+                }
+            },
+            "21076": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Redux is commonly used in React applications. What problem is it solving?<\/span><\/p>",
+                "72850": {
+                    "72850": "<p>It handles routing.<\/p>"
+                },
+                "72851": {
+                    "72851": "<p>It enforces proper code formatting.<\/p>"
+                },
+                "72852": {
+                    "72852": "<p>It allows you to do AJAX calls.<\/p>"
+                },
+                "72853": {
+                    "72853": "<p>It helps to manage the global application state.<\/p>"
+                }
+            },
+            "21077": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is the output of the following code?<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">import<\/span> React <span class=\"hljs-keyword\">from<\/span> <span class=\"hljs-string\">'react'<\/span>;\n<span class=\"hljs-keyword\">import<\/span> {ActivityIndicator, View, Text} <span class=\"hljs-keyword\">from<\/span> <span class=\"hljs-string\">'react-native'<\/span>;\n\n<span class=\"hljs-keyword\">const<\/span> MyComponent = <span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-keyword\">const<\/span> [loading, setLoading] = useState(<span class=\"hljs-literal\">true<\/span>);\n\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-keyword\">if<\/span>(loading) {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-keyword\">return<\/span> <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">ActivityIndicator<\/span>\/&gt;<\/span>;\n&nbsp;&nbsp;&nbsp;}\n\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-keyword\">return<\/span> <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span>&gt;&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>My Component<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n} \n<\/pre>",
+                "72854": {
+                    "72854": "<p>The text “My Component” will be displayed.<\/p>"
+                },
+                "72855": {
+                    "72855": "<p>A loading spinner will be displayed forever.<\/p>"
+                },
+                "72856": {
+                    "72856": "<p>A loading spinner will be displayed until the next prop change.<\/p>"
+                },
+                "72857": {
+                    "72857": "<p>A loading spinner will be displayed for some time, and the \"My Component\" text will be rendered.<\/p>"
+                }
+            },
+            "21078": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How many stores there are in Redux?<\/span><\/p>",
+                "72861": {
+                    "72861": "<p>infinite<\/p>"
+                }
+            },
+            "21079": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is a store in Redux?<\/span><\/p>",
+                "72862": {
+                    "72862": "<p>It is a function that returns the application data.<\/p>"
+                },
+                "72863": {
+                    "72863": "<p>It is an object holding the application state tree.<\/p>"
+                },
+                "72864": {
+                    "72864": "<p>It is an object holding a local component state.<\/p>"
+                },
+                "72865": {
+                    "72865": "<p>It is a method for saving the application state when the app is closed.<\/p>"
+                }
+            },
+            "21080": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How can you handle asynchronous requests in Redux?<\/span><\/p>",
+                "72866": {
+                    "72866": "<p>Redux is not designed to work with async requests. Async requests should always be handled using the local state.<\/p>"
+                },
+                "72867": {
+                    "72867": "<p>Using third-party libraries like redux-thunk and redux-saga.<\/p>"
+                },
+                "72868": {
+                    "72868": "<p>Using the default Redux setup—it works out of the box.<\/p>"
+                },
+                "72869": {
+                    "72869": "<p>By adding <code><strong>async<\/strong><\/code> in front of an action dispatcher function.<\/p>"
+                }
+            },
+            "21081": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is Context used for in React?<\/span><\/p>",
+                "72870": {
+                    "72870": "<p>To set the environment; for example: <code><strong>‘mobile’<\/strong><\/code>,<code><strong>’desktop’<\/strong><\/code>,<code><strong>’android’<\/strong><\/code>,<code><strong>’ios’<\/strong><\/code><\/p>"
+                },
+                "72871": {
+                    "72871": "<p>To pass the data through the component tree.<\/p>"
+                },
+                "72872": {
+                    "72872": "<p>To set the global variables.<\/p>"
+                },
+                "72873": {
+                    "72873": "<p>To handle internationalization.<\/p>"
+                }
+            },
+            "21082": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Consider the code given below. What is going to happen when the user presses the TouchableOpacity?<\/span><\/p><p><br><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span> pressHandler = <span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;<span class=\"hljs-built_in\">console<\/span>.log(<span class=\"hljs-string\">'pressHandler clicked!'<\/span>);\n};\n&nbsp;\n<span class=\"hljs-keyword\">const<\/span> Temp = <span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{styles.container}<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">TouchableOpacity<\/span> <span class=\"hljs-attr\">onPress<\/span>=<span class=\"hljs-string\">{pressHandler()}<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>Click Me!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">TouchableOpacity<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;);\n};\n&nbsp;\n<span class=\"hljs-keyword\">export<\/span> <span class=\"hljs-keyword\">default<\/span> Temp; \n<\/pre>",
+                "72874": {
+                    "72874": "<p>The engine will throw a runtime error.<\/p>"
+                },
+                "72875": {
+                    "72875": "<p>The ‘pressHandler clicked!’ text will be printed to the console.<\/p>"
+                },
+                "72876": {
+                    "72876": "<p>The ‘pressHandler clicked!’ text will be printed to the console, but a warning will also be thrown saying the function is defined outside the component.<\/p>"
+                },
+                "72877": {
+                    "72877": "<p>Nothing will happen.<\/p>"
+                }
+            },
+            "21083": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Consider the code shown below. What is going to happen when the user presses the TouchableOpacity?<\/span><\/p><p><br><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span> MyBtn = <span class=\"hljs-function\">(<span class=\"hljs-params\">{cb}<\/span>) =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">const<\/span> myVar = <span class=\"hljs-string\">'abcd'<\/span>;\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{styles.container}<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">TouchableOpacity<\/span> <span class=\"hljs-attr\">onPress<\/span>=<span class=\"hljs-string\">{cb}<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>Click Me!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">TouchableOpacity<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;);\n};\n&nbsp;\n<span class=\"hljs-keyword\">const<\/span> Temp = <span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">MyBtn<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">cb<\/span>=<span class=\"hljs-string\">{()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;console.log(myVar);\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}}\n&nbsp;&nbsp;&nbsp;\/&gt;\n&nbsp;);\n};\n&nbsp;\nexport default Temp; \n<\/pre>",
+                "72878": {
+                    "72878": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">It will throw a JS error saying that <\/span><code><strong>myVar<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> is not defined.<\/span><\/p>"
+                },
+                "72879": {
+                    "72879": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">It will print the ‘abcd’ to the console.<\/span><\/p>"
+                },
+                "72880": {
+                    "72880": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">It will throw a JS error saying that the <\/span><code><strong>onPress<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> handler has to be an arrow function.<\/span><\/p>"
+                },
+                "72881": {
+                    "72881": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">It will print ‘abcd’ and throw a warning about a potential memory leak.<\/span><\/p>"
+                }
+            },
+            "21084": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The component below causes an infinite loop, and eventually a ‘Maximum call stack exceeded’ error.&nbsp;<\/span><\/p><p><br><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">How would you modify the useEffect hook definition so that the counter will increase by 1 every second?<\/strong><\/p><p><br><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span> MyComponent = <span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">const<\/span> [counter, setCounter] = useState(<span class=\"hljs-number\">0<\/span>);\n&nbsp;\n&nbsp;useEffect(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;setCounter(counter + <span class=\"hljs-number\">1<\/span>);\n&nbsp;}, [counter]);\n&nbsp;\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{styles.container}<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>counter: {counter}<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;);\n}; \n<\/pre>",
+                "72882": {
+                    "72882": "<pre class=\"ql-syntax\" spellcheck=\"false\">useEffect(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;setTimeout(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setCounter(counter + <span class=\"hljs-number\">1<\/span>);\n&nbsp;&nbsp;&nbsp;}, <span class=\"hljs-number\">1000<\/span>);\n&nbsp;}, [counter]);\n<\/pre>"
+                },
+                "72883": {
+                    "72883": "<pre class=\"ql-syntax\" spellcheck=\"false\">useEffect(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;setInterval(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setCounter(counter + <span class=\"hljs-number\">1<\/span>);\n&nbsp;&nbsp;&nbsp;}, <span class=\"hljs-number\">1000<\/span>);\n&nbsp;}, [counter]);\n<\/pre>"
+                },
+                "72884": {
+                    "72884": "<pre class=\"ql-syntax\" spellcheck=\"false\">useEffect(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;setInterval(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setCounter(counter + <span class=\"hljs-number\">1<\/span>);\n&nbsp;&nbsp;&nbsp;}, <span class=\"hljs-number\">1000<\/span>);\n&nbsp;}, []);\n<\/pre>"
+                },
+                "72885": {
+                    "72885": "<pre class=\"ql-syntax\" spellcheck=\"false\">useEffect(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;setInterval(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setCounter(counter + <span class=\"hljs-number\">1<\/span>);\n&nbsp;&nbsp;&nbsp;}, <span class=\"hljs-number\">1000<\/span>);\n&nbsp;});\n<\/pre>"
+                }
+            },
+            "21085": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Consider the code shown below.<\/span><\/p><p><br><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">How many times will the ‘Here You Go!’ string be printed on the screen?<\/strong><\/p><p><br><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span> MyComponent = <span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">const<\/span> numbers = [<span class=\"hljs-number\">1<\/span>,<span class=\"hljs-number\">2<\/span>,<span class=\"hljs-number\">3<\/span>,<span class=\"hljs-number\">4<\/span>,<span class=\"hljs-number\">5<\/span>,<span class=\"hljs-number\">6<\/span>,<span class=\"hljs-number\">7<\/span>,<span class=\"hljs-number\">8<\/span>,<span class=\"hljs-number\">9<\/span>];\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{styles.container}<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{numbers.map((number) =&gt; {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return (number % 2 === 0 &amp;&amp; <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>Here You Go!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>)\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;})}\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;);\n}; \n<\/pre>"
+            },
+            "21086": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is the following code?<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\">const withHelloWorld = <span class=\"hljs-function\"><span class=\"hljs-params\">(WrappedComponent)<\/span> =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">return<\/span> <span class=\"hljs-class\"><span class=\"hljs-keyword\">class<\/span> <span class=\"hljs-keyword\">extends<\/span> <span class=\"hljs-title\">React<\/span>.<span class=\"hljs-title\">Component<\/span> {<\/span>\n&nbsp;&nbsp;&nbsp;internalData = [<span class=\"hljs-number\">1<\/span>, <span class=\"hljs-number\">2<\/span>, <span class=\"hljs-number\">3<\/span>, <span class=\"hljs-number\">4<\/span>, <span class=\"hljs-number\">5<\/span>, <span class=\"hljs-number\">6<\/span>, <span class=\"hljs-number\">7<\/span>, <span class=\"hljs-number\">9<\/span>];\n&nbsp;\n&nbsp;&nbsp;&nbsp;render() {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-keyword\">return<\/span> &lt;WrappedComponent {...<span class=\"hljs-keyword\">this<\/span>.props} data={<span class=\"hljs-keyword\">this<\/span>.internalData} \/&gt;;\n&nbsp;&nbsp;&nbsp;}\n&nbsp;};\n}; \n<\/pre>",
+                "72890": {
+                    "72890": "<p>A regular functional component<\/p>"
+                },
+                "72891": {
+                    "72891": "<p>A higher-order component<\/p>"
+                },
+                "72892": {
+                    "72892": "<p>A hook<\/p>"
+                },
+                "72893": {
+                    "72893": "<p>A regular class component<\/p>"
+                }
+            },
+            "21087": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Consider the following component:<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span> MyComponent = <span class=\"hljs-function\">(<span class=\"hljs-params\">{children}<\/span>) =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>My Big Heading<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{children}\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;);\n};\n<\/pre><p><br><\/p><p><br><\/p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Used in the following way:<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-section\">&lt;MyComponent&gt;<\/span>\n&nbsp;<span class=\"hljs-section\">&lt;View&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-section\">&lt;Text&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attribute\">Lorem<\/span> ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attribute\">viverra<\/span> elit tellus, a vulputate ex tempor eget. Aliquam ac rhoncus eros,\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attribute\">in<\/span> pharetra est. Mauris sit amet faucibus purus. Suspendisse vel congue\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attribute\">est<\/span>, eu maximus libero. Morbi in eros vestibulum, mollis ligula nec,\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attribute\">scelerisque<\/span> diam. In auctor tellus eu laoreet ullamcorper. Nam imperdiet\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attribute\">mollis<\/span> tortor id hendrerit.\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-section\">&lt;\/Text&gt;<\/span>\n&nbsp;<span class=\"hljs-section\">&lt;\/View&gt;<\/span>\n<span class=\"hljs-section\">&lt;\/MyComponent&gt; <\/span>\n<\/pre><p><br><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">What will be printed on the screen?<\/strong><\/p>",
+                "72894": {
+                    "72894": "<p>Nothing. This will throw an error, saying the children prop is not defined.<\/p>"
+                },
+                "72895": {
+                    "72895": "<p>It will print out the “My Big Heading” text only.<\/p>"
+                },
+                "72896": {
+                    "72896": "<p>It will print out the “My Big Heading” text and “undefined.”<\/p>"
+                },
+                "72897": {
+                    "72897": "<p>It will print out the “My Big Heading” text and the “Lorem ipsum…” text.<\/p>"
+                }
+            },
+            "21088": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Based on the following component definition:<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span> MyComponent = <span class=\"hljs-function\">(<span class=\"hljs-params\">{title}<\/span>) =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Text<\/span>&gt;<\/span>{title}<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">Text<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">View<\/span>&gt;<\/span>\n&nbsp;);\n};\n&nbsp;\nMyComponent.propTypes = {\n&nbsp;<span class=\"hljs-attr\">title<\/span>: PropTypes.string,\n};\n&nbsp;\nMyComponent.defaultProps = {\n&nbsp;<span class=\"hljs-attr\">title<\/span>: <span class=\"hljs-string\">'[Title Placeholder]'<\/span>,\n};\n\nAnd <span class=\"hljs-keyword\">this<\/span> component usage:\n\n<span class=\"hljs-keyword\">const<\/span> Temp = <span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">SafeAreaView<\/span>&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">MyComponent<\/span> \/&gt;<\/span>\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">SafeAreaView<\/span>&gt;<\/span>\n&nbsp;);\n}; \n<\/pre><p><br><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">What will be printed out on the screen?<\/strong><\/p>",
+                "72898": {
+                    "72898": "<p>It will print out a <code><strong>‘[Title Placeholder]’<\/strong><\/code> string because that’s the default value.<\/p>"
+                },
+                "72899": {
+                    "72899": "<p>It will not print out anything because the title prop value is not passed.<\/p>"
+                },
+                "72900": {
+                    "72900": "<p>It will throw an error because the prop is not passed.<\/p>"
+                },
+                "72901": {
+                    "72901": "<p>It will print out <code><strong>‘undefined’<\/strong><\/code> because the prop is not passed.<\/p>"
+                }
+            },
+            "21089": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Consider the code shown below. What is the value of myString?<\/span><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">const<\/span> MyComponent = <span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span> =&gt;<\/span> {\n&nbsp;<span class=\"hljs-keyword\">const<\/span> [myString, setMyString] = useState();\n&nbsp;<span class=\"hljs-keyword\">return<\/span> <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">h1<\/span>&gt;<\/span>SomeRandomText<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">h1<\/span>&gt;<\/span>;\n};  \n<\/pre>",
+                "72903": {
+                    "72903": "<p>Null<\/p>"
+                },
+                "72904": {
+                    "72904": "<p>Undefined<\/p>"
+                }
+            },
+            "21090": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is a hook?<\/span><\/p>",
+                "72906": {
+                    "72906": "<p>A state object<\/p>"
+                },
+                "72907": {
+                    "72907": "<p>A component<\/p>"
+                },
+                "72908": {
+                    "72908": "<p>A higher-order component<\/p>"
+                },
+                "72909": {
+                    "72909": "<p>A function<\/p>"
+                }
+            },
+            "21091": {
+                "QUESTION_CONTENT": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">True or false: <\/strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">It is possible to have multiple <\/span><code><strong>useEffect<\/strong><\/code><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> hooks in a single component.<\/span><\/p>"
+            }
+        },
+        "1346": {
+            "SKILL_AREA_NAME": "Native - Android\/iOS",
+            "21092": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following would you use to upload the app to iTunes Connect?<\/span><\/p>",
+                "72912": {
+                    "72912": "<p>Transporter app<\/p>"
+                },
+                "72913": {
+                    "72913": "<p>iTunes<\/p>"
+                },
+                "72914": {
+                    "72914": "<p>Finder<\/p>"
+                },
+                "72915": {
+                    "72915": "<p>FTP client<\/p>"
+                }
+            },
+            "21093": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">What does the <\/span><code><strong>SFSafariViewController<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> help you do?<\/span><\/p>",
+                "72916": {
+                    "72916": "<p>Load a <code><strong>WebView<\/strong><\/code> inside a React Native app.<\/p>"
+                },
+                "72917": {
+                    "72917": "<p>Open the Safari browser programmatically behind the scenes so the user doesn’t see it.<\/p>"
+                },
+                "72918": {
+                    "72918": "<p>Provide a unified web interface for browsing the web from the apps.<\/p>"
+                },
+                "72919": {
+                    "72919": "<p>Handle browser history events.<\/p>"
+                }
+            },
+            "21094": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Where are the native packages registered?<\/span><\/p>",
+                "72920": {
+                    "72920": "<p>Package manager<\/p>"
+                },
+                "72921": {
+                    "72921": "<p>View manager<\/p>"
+                },
+                "72922": {
+                    "72922": "<p>Android manifest<\/p>"
+                },
+                "72923": {
+                    "72923": "<p>build.gradle<\/p>"
+                }
+            },
+            "21095": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following is true about pushId in Android?<\/span><\/p>",
+                "72924": {
+                    "72924": "<p>It’s device specific.<\/p>"
+                },
+                "72925": {
+                    "72925": "<p>It’s app specific.<\/p>"
+                },
+                "72926": {
+                    "72926": "<p>It changes on every app launch.<\/p>"
+                },
+                "72927": {
+                    "72927": "<p>It’s app-installation specific.<\/p>"
+                }
+            },
+            "21096": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is the main entry file for a React Native iOS app?<\/span><\/p>",
+                "72928": {
+                    "72928": "<p>Podfile<\/p>"
+                },
+                "72929": {
+                    "72929": "<p><code><strong>Info.plist<\/strong><\/code><\/p>"
+                },
+                "72930": {
+                    "72930": "<p><code><strong>AppDelegate.h\/AppDelegate.m<\/strong><\/code><\/p>"
+                },
+                "72931": {
+                    "72931": "<p><code><strong>Podfile.lock<\/strong><\/code><\/p>"
+                }
+            },
+            "21097": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Where are native dependencies for iOS managed?<\/span><\/p>",
+                "72932": {
+                    "72932": "<p>Podfile<\/p>"
+                },
+                "72933": {
+                    "72933": "<p><code><strong>build.gradle<\/strong><\/code><\/p>"
+                },
+                "72934": {
+                    "72934": "<p><code><strong>[project_name].xcworkspace<\/strong><\/code><\/p>"
+                },
+                "72935": {
+                    "72935": "<p><code><strong>ios.json<\/strong><\/code><\/p>"
+                }
+            },
+            "21098": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Where are native dependencies for Android managed?<\/span><\/p>",
+                "72936": {
+                    "72936": "<p><code><strong>app\/build.gradle<\/strong><\/code><\/p>"
+                },
+                "72937": {
+                    "72937": "<p><code><strong>AndroidManifest.xml<\/strong><\/code><\/p>"
+                },
+                "72938": {
+                    "72938": "<p><code><strong>res\/strings.xml<\/strong><\/code><\/p>"
+                },
+                "72939": {
+                    "72939": "<p><code><strong>config.xml<\/strong><\/code><\/p>"
+                }
+            },
+            "21099": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">When does multidex have to be enabled?<\/span><\/p>",
+                "72940": {
+                    "72940": "<p>When your app supports multiple CPU architectures.<\/p>"
+                },
+                "72941": {
+                    "72941": "<p>When your app size is bigger than 30MB.<\/p>"
+                },
+                "72942": {
+                    "72942": "<p>When your app and the libraries it references exceed 65,536 methods. <\/p>"
+                },
+                "72943": {
+                    "72943": "<p>When using Firebase.<\/p>"
+                }
+            },
+            "21100": {
+                "QUESTION_CONTENT": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">True or false: <\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">By default the native code for Android in React Native is written in Java.<\/span><\/p>"
+            },
+            "21101": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Where is the splash screen located in a default React Native iOS project?<\/span><\/p>",
+                "72946": {
+                    "72946": "<p><code><strong>LaunchScreen.xib<\/strong><\/code><\/p>"
+                },
+                "72947": {
+                    "72947": "<p><code><strong>Images.xcassets<\/strong><\/code><\/p>"
+                },
+                "72948": {
+                    "72948": "<p><code><strong>Splash.png<\/strong><\/code> in the project root.<\/p>"
+                },
+                "72949": {
+                    "72949": "<p>There is no splash screen in a default React Native iOS project.<\/p>"
+                }
+            },
+            "21102": {
+                "QUESTION_CONTENT": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">True or false: <\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">On iOS the push notifications always use the default system sound.<\/span><\/p>"
+            },
+            "21103": {
+                "72952": {
+                    "72952": "<p>Platform-specific JS code can only be executed using a conditional inside the JS file.<\/p>"
+                },
+                "72953": {
+                    "72953": "<p>All the JS code is always shared between each platform.<\/p>"
+                },
+                "72954": {
+                    "72954": "<p>Platform-specific JS code can be executed using a conditional inside the JS file as well as platform-specific file names following the naming convention *.android.js and *.ios.js.<\/p>"
+                },
+                "72955": {
+                    "72955": "<p>The only way to execute platform-specific JS code is to keep it in files named *.android.js or *.ios.js.<\/p>"
+                }
+            },
+            "21104": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following commands will produce an uploadable artifact for Android?<\/span><\/p>",
+                "72956": {
+                    "72956": "<p><code style=\"background-color: transparent; color: rgb(0, 0, 0);\"><strong>react-native run-android<\/strong><\/code><\/p>"
+                },
+                "72957": {
+                    "72957": "<p><code style=\"background-color: transparent; color: rgb(0, 0, 0);\"><strong>.\/gradlew assembleRelease<\/strong><\/code><\/p>"
+                },
+                "72958": {
+                    "72958": "<p><code style=\"background-color: transparent; color: rgb(0, 0, 0);\"><strong>.\/gradlew bundleRelease<\/strong><\/code><\/p>"
+                },
+                "72959": {
+                    "72959": "<p><code style=\"background-color: transparent; color: rgb(0, 0, 0);\"><strong>react-native assemble-release<\/strong><\/code><\/p>"
+                }
+            },
+            "21105": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The JS code in React Native apps is always executed using V8 engine, no matter the platform.<\/span><\/p>"
+            },
+            "21106": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Where can you change the bundle identifier of an existing iOS app?<\/span><\/p>",
+                "72962": {
+                    "72962": "<p>In <code><strong>AppDelegate.m<\/strong><\/code><\/p>"
+                },
+                "72963": {
+                    "72963": "<p>In <code><strong>Info.plist<\/strong><\/code><\/p>"
+                },
+                "72964": {
+                    "72964": "<p>In&nbsp;XCODE &gt; Targets &gt; [project name] &gt; General Tab &gt; Bundle Identifier<\/p>"
+                },
+                "72965": {
+                    "72965": "<p>It is not possible to change the bundle identifier once the project has been created.<\/p>"
+                }
+            },
+            "21107": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How can you access the geolocation information?<\/span><\/p>",
+                "72966": {
+                    "72966": "<p>Using the <code><strong>navigator<\/strong><\/code> object built into React Native.<\/p>"
+                },
+                "72967": {
+                    "72967": "<p>It is not possible to access geolocation information from React Native apps. This is reserved for pure native apps.<\/p>"
+                },
+                "72968": {
+                    "72968": "<p>Using a third-party library or writing your own native bridge, allowing access to the native APIs.<\/p>"
+                },
+                "72969": {
+                    "72969": "<p>Using the <code><strong>geolocation<\/strong><\/code> object built into React Native. <\/p>"
+                }
+            },
+            "21108": {
+                "QUESTION_CONTENT": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">True or false: <\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">React Native comes with SVG support out of the box.<\/span><\/p>"
+            },
+            "21109": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How do you crop an image in React Native?<\/span><\/p>",
+                "72972": {
+                    "72972": "<p>Use the standard html image tag.<\/p>"
+                },
+                "72973": {
+                    "72973": "<p>Use server-side resizing.<\/p>"
+                },
+                "72974": {
+                    "72974": "<p>Use the canvas object exported from react-native, which is identical to the HTML5 canvas.<\/p>"
+                },
+                "72975": {
+                    "72975": "<p>Use the @react-native-community\/image-editor library, which used to be a part of the React Native core.<\/p>"
+                }
+            },
+            "21110": {
+                "QUESTION_CONTENT": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">True or false: <\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">It is possible to build a Native app with some areas of it built using React Native.<\/span><\/p>"
+            },
+            "21111": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">It is possible to deploy React Native apps on Apple TV.<\/span><\/p>"
+            },
+            "21112": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Consider the following component with WebView. What will the outcome of this code be?<\/span><\/p><p><br><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">export<\/span> <span class=\"hljs-keyword\">default<\/span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function<\/span> <span class=\"hljs-title\">MyComponent<\/span>() <\/span>{\n&nbsp;<span class=\"hljs-keyword\">const<\/span> [showWebview, setShowWebview] = useState(<span class=\"hljs-literal\">true<\/span>);\n&nbsp;\n&nbsp;<span class=\"hljs-keyword\">return<\/span> (\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">SafeAreaView<\/span> <span class=\"hljs-attr\">style<\/span>=<span class=\"hljs-string\">{{flex:<\/span> <span class=\"hljs-attr\">1<\/span>}}&gt;<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{showWebview &amp;&amp; (\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">WebView<\/span>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">originWhitelist<\/span>=<span class=\"hljs-string\">{[<\/span>'*']}\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-attr\">onMessage<\/span>=<span class=\"hljs-string\">{({nativeEvent})<\/span> =&gt;<\/span> {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (nativeEvent.data === 'close') {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;console.log(nativeEvent.data);\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setShowWebview(false);\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}}\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;source={{\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;html:\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">script<\/span>&gt;<\/span>setTimeout(<span class=\"hljs-function\"><span class=\"hljs-params\">()<\/span>=&gt;<\/span>{<span class=\"hljs-built_in\">window<\/span>.ReactNativeWebView.postMessage(<span class=\"hljs-string\">\"close\"<\/span>)}, <span class=\"hljs-number\">5000<\/span>)<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">script<\/span>&gt;&lt;<span class=\"hljs-name\">h1<\/span>&gt;<\/span>This is a static HTML source!<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">h1<\/span>&gt;<\/span>',\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}}\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\/&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)}\n&nbsp;&nbsp;&nbsp;<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">SafeAreaView<\/span>&gt;<\/span>\n&nbsp;);\n} \n<\/pre><p><br><\/p>",
+                "72980": {
+                    "72980": "<p>It will first render the WebView, which will disappear after five seconds.<\/p>"
+                },
+                "72981": {
+                    "72981": "<p>It will throw an error because it is impossible to embed inline HTML like that.<\/p>"
+                },
+                "72982": {
+                    "72982": "<p>It will throw an error because it is impossible to execute JS from inline HTML inside the WebView.<\/p>"
+                },
+                "72983": {
+                    "72983": "<p>It will render the WebView with h1 in it, and nothing else will happen.<\/p>"
+                }
+            },
+            "21113": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is an *.ipa file?<\/span><\/p>",
+                "72984": {
+                    "72984": "<p>It is a file containing the app description for the Apple App Store.<\/p>"
+                },
+                "72985": {
+                    "72985": "<p>It is an archived and exported iOS app package ready to be uploaded to the Apple App Store.<\/p>"
+                },
+                "72986": {
+                    "72986": "<p>It is an archived and exported Android app package ready to be uploaded to the Google Play Store.<\/p>"
+                },
+                "72987": {
+                    "72987": "<p>It is a main entry point. <\/p>"
+                }
+            },
+            "21114": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Starting from React Native version 0.60+, native libraries are auto-linked. What does that mean?<\/span><\/p>",
+                "72988": {
+                    "72988": "<p>It means that the project built using React Native 0.60+ will have a deep-linking mechanism set up out of the box.<\/p>"
+                },
+                "72989": {
+                    "72989": "<p>It means that more native APIs are included in the React Native core.<\/p>"
+                },
+                "72990": {
+                    "72990": "<p>It means that dependencies that come with native code are automatically linked and no manual steps are required after installing them.<\/p>"
+                },
+                "72991": {
+                    "72991": "<p>It means that native APIs can be accessed directly from JS without any third-party libraries.<\/p>"
+                }
+            },
+            "21115": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Is it possible to call a non-https API in a standard Android release build (API 28+)?<\/span><\/p>",
+                "72992": {
+                    "72992": "<p>Yes, but <code><strong>usesCleartextTraffic<\/strong><\/code> has to be specified in the AndroidManifest.xml file.<\/p>"
+                },
+                "72993": {
+                    "72993": "<p>Yes, but all the allowed URLs have to be listed in <code><strong>res\/strings.xml<\/strong><\/code>.<\/p>"
+                },
+                "72994": {
+                    "72994": "<p>Yes, it is always possible and no additional work is needed.<\/p>"
+                },
+                "72995": {
+                    "72995": "<p>Yes, it is possible when using axios, but you have to pass a <code><strong>disable-ssl:<\/strong><\/code> true config parameter to it.<\/p>"
+                }
+            },
+            "21116": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">You uploaded a build to App Store Connect. After the upload, you realized it has a bug. How can you upload another build with a fix?<\/span><\/p>",
+                "72996": {
+                    "72996": "<p>You can update the version number and upload a new build.<\/p>"
+                },
+                "72997": {
+                    "72997": "<p>You can keep the version number but update the build number property in Xcode and upload a new build.<\/p>"
+                },
+                "72998": {
+                    "72998": "<p>You can remove the existing faulty build and upload a new one with the same version number and build number<\/p>"
+                },
+                "72999": {
+                    "72999": "<p>You can upload a build with the same version number and build number.<\/p>"
+                }
+            },
+            "21117": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following commands will produce an uploadable artifact for Android?<\/span><\/p>",
+                "73000": {
+                    "73000": "<p>react-native run-android<\/p>"
+                },
+                "73001": {
+                    "73001": "<p>.\/gradlew assembleRelease<\/p>"
+                },
+                "73002": {
+                    "73002": "<p>.\/gradlew bundleRelease<\/p>"
+                },
+                "73003": {
+                    "73003": "<p>react-native assemble-release<\/p>"
+                }
+            }
+        },
+        "1349": {
+            "SKILL_AREA_NAME": "Developer Workflow",
+            "21118": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following is used to manage native dependencies in an iOS project?<\/span><\/p>",
+                "73004": {
+                    "73004": "<p>package.json<\/p>"
+                },
+                "73005": {
+                    "73005": "<p>build.gradle<\/p>"
+                },
+                "73006": {
+                    "73006": "<p>POD file<\/p>"
+                },
+                "73007": {
+                    "73007": "<p>info.plist<\/p>"
+                }
+            },
+            "21119": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What does ADB allow you to do?<\/span><\/p>",
+                "73008": {
+                    "73008": "<p>Add and remove available Android emulators.<\/p>"
+                },
+                "73009": {
+                    "73009": "<p>Manage installed SDKs and tools.<\/p>"
+                },
+                "73010": {
+                    "73010": "<p>Send commands to the connected devices\/emulators.<\/p>"
+                },
+                "73011": {
+                    "73011": "<p>Add or remove available iOS simulators.<\/p>"
+                }
+            },
+            "21120": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is Flipper?<\/span><\/p>",
+                "73012": {
+                    "73012": "<p>A React Native debugging tool<\/p>"
+                },
+                "73013": {
+                    "73013": "<p>A release management tool<\/p>"
+                },
+                "73014": {
+                    "73014": "<p>A layout engine<\/p>"
+                },
+                "73015": {
+                    "73015": "<p>An application loader for Android<\/p>"
+                }
+            },
+            "21121": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is package.json used for?<\/span><\/p>",
+                "73016": {
+                    "73016": "<p>To manage iOS-specific dependencies.<\/p>"
+                },
+                "73017": {
+                    "73017": "<p>To manage Android-specific dependencies.<\/p>"
+                },
+                "73018": {
+                    "73018": "<p>To manage Node.js dependencies.<\/p>"
+                },
+                "73019": {
+                    "73019": "<p>To manage informational files for other team members.<\/p>"
+                }
+            },
+            "21122": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Is Android Studio required for React Native development?<\/span><\/p>",
+                "73020": {
+                    "73020": "<p>Yes, to set up the necessary tooling to build React Native for Android.<\/p>"
+                },
+                "73021": {
+                    "73021": "<p>No. Android Studio is for Java and React Native is JavaScript.<\/p>"
+                },
+                "73022": {
+                    "73022": "<p>Yes. It supports React Native JSX syntax out of the box.<\/p>"
+                },
+                "73023": {
+                    "73023": "<p>Yes, to debug native code and write native plugins more easily.<\/p>"
+                }
+            },
+            "21123": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">What does the <\/span><code><strong>npm ci<\/strong><\/code><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> command do? <\/span><\/p>",
+                "73024": {
+                    "73024": "<p>It performs a standard <code><strong>npm install<\/strong><\/code>.<\/p>"
+                },
+                "73025": {
+                    "73025": "<p>It installs the dependencies but only in the continuous integration setup.<\/p>"
+                },
+                "73026": {
+                    "73026": "<p>It installs the dependencies based on the package-lock.json.<\/p>"
+                },
+                "73027": {
+                    "73027": "<p>It commits the package.json and installs the dependencies.<\/p>"
+                }
+            },
+            "21124": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is Metro used for?<\/span><\/p>",
+                "73028": {
+                    "73028": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">It is used to bundle multiple project files into a single JS file.<\/span><\/p>"
+                },
+                "73029": {
+                    "73029": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">It is used to speed up the app.<\/span>\t\t<\/p>"
+                },
+                "73030": {
+                    "73030": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">It is used to optimize the Java code.<\/span><\/p>"
+                },
+                "73031": {
+                    "73031": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">It is used to optimize Objective-C code.<\/span><\/p>"
+                }
+            },
+            "21125": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is Metro used for?<\/span><\/p>",
+                "73032": {
+                    "73032": "<p>It is used to bundle multiple project files into a single JS file.<\/p>"
+                },
+                "73033": {
+                    "73033": "<p>It is used to speed up the app.<\/p>"
+                },
+                "73034": {
+                    "73034": "<p>It is used to optimize the Java code.<\/p>"
+                },
+                "73035": {
+                    "73035": "<p>It is used to optimize Objective-C code.<\/p>"
+                }
+            },
+            "21126": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Consider the configuration in <\/span><code><strong>metro.config.js<\/strong><\/code><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> shown below. <\/span><\/p><p><br><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following statements is true?<\/strong><\/p><p><br><\/p><pre class=\"ql-syntax\" spellcheck=\"false\"><span class=\"hljs-keyword\">module<\/span>.<span class=\"hljs-keyword\">exports<\/span> = {\n&nbsp;&nbsp;&nbsp;resolver: {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;extraNodeModules: {\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\">'@my-scoped-package\/my-component'<\/span>: path.resolve(<span class=\"hljs-string\">'.\/src\/my-scoped-package\/somefile.js'<\/span>),\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},\n&nbsp;&nbsp;&nbsp;},\n}; \n<\/pre>",
+                "73036": {
+                    "73036": "<p>It will cause the Metro bundler to throw an error.<\/p>"
+                },
+                "73037": {
+                    "73037": "<p>It will have no impact because it is an invalid config entry.<\/p>"
+                },
+                "73038": {
+                    "73038": "<p>Every import of <code><strong>'@my-scoped-package\/my-component'<\/strong><\/code> will be resolved to <code><strong>'.\/src\/my-scoped-package\/somefile.js'<\/strong><\/code>.<\/p>"
+                },
+                "73039": {
+                    "73039": "<p>Every import of <code><strong>'@my-scoped-package\/my-component'<\/strong><\/code> will be ignored.<\/p>"
+                }
+            },
+            "21127": {
+                "QUESTION_CONTENT": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">True or false: <\/strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">When the Chrome DevTools debugger is connected, the code is executed using V8 engine; when it is disconnected, the default OS JS engine is used.<\/span><\/p>"
+            },
+            "21128": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is package-lock.json used for?<\/span><\/p>",
+                "73042": {
+                    "73042": "<p>To prevent the addition of new dependencies to the project.<\/p>"
+                },
+                "73043": {
+                    "73043": "<p>To describe the complete dependency tree.<\/p>"
+                },
+                "73044": {
+                    "73044": "<p>To guarantee that every dependency install will be exactly the same.<\/p>"
+                },
+                "73045": {
+                    "73045": "<p>To show all the transitive dependencies.<\/p>"
+                }
+            },
+            "21129": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How can you browse Android system logs when running a React Native app?<\/span><\/p>",
+                "73046": {
+                    "73046": "<p>Using adb logcat command.<\/p>"
+                },
+                "73047": {
+                    "73047": "<p>Using react-native log-android command.<\/p>"
+                },
+                "73048": {
+                    "73048": "<p>Using Android Studio.<\/p>"
+                },
+                "73049": {
+                    "73049": "<p>Using react-native run-android --logcat command.<\/p>"
+                }
+            },
+            "21130": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">React Native comes with a tool that helps to diagnose environment issues.&nbsp;<\/span><\/p><p><br><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">What command launches this tool?<\/strong><\/p>",
+                "73050": {
+                    "73050": "<p>react-native doctor<\/p>"
+                },
+                "73051": {
+                    "73051": "<p>react-native info<\/p>"
+                },
+                "73052": {
+                    "73052": "<p>react-native config<\/p>"
+                },
+                "73053": {
+                    "73053": "<p>react-native check-env<\/p>"
+                }
+            },
+            "21131": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following can help you test the release version of the app for Android?<\/span><\/p>",
+                "73054": {
+                    "73054": "<p><code><strong>react-native run-android --variant=release<\/strong><\/code><\/p>"
+                },
+                "73055": {
+                    "73055": "<p><code><strong>.\/gradlew assembleRelease &amp;&amp; adb install [path_to_apk]<\/strong><\/code><\/p>"
+                },
+                "73056": {
+                    "73056": "<p><code><strong>react-native run-android --variant=noMin<\/strong><\/code><\/p>"
+                },
+                "73057": {
+                    "73057": "<p><code><strong>react-native run-android --variant=bundle<\/strong><\/code><\/p>"
+                }
+            },
+            "21132": {
+                "QUESTION_CONTENT": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">What is TestFlight and what is it used for?<\/span><\/p>",
+                "73058": {
+                    "73058": "<p>TestFlight is an app allowing you to test your app before publishing to the wider audience.<\/p>"
+                },
+                "73059": {
+                    "73059": "<p>TestFlight is a test framework used to write automated tests for iOS.<\/p>"
+                },
+                "73060": {
+                    "73060": "<p>TestFlight is a React Native command to test the build before publishing it.<\/p>"
+                },
+                "73061": {
+                    "73061": "<p>TestFlight is a web portal that allows you to post your app and have volunteer beta testers test it for free.<\/p>"
+                }
+            },
+            "21133": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is a .npmrc file used for?<\/span><\/p>",
+                "73062": {
+                    "73062": "<p>It is used to optimize the dependencies and make sure the same dependency is not installed multiple times.<\/p>"
+                },
+                "73063": {
+                    "73063": "<p>It is used to store all the project dependencies.<\/p>"
+                },
+                "73064": {
+                    "73064": "<p>It is used to make the npm install command faster.<\/p>"
+                },
+                "73065": {
+                    "73065": "<p>It is used to store the npm client configuration parameters.<\/p>"
+                }
+            },
+            "21134": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">In npm, what is a peer dependency?<\/span><\/p>",
+                "73066": {
+                    "73066": "<p>It is a dependency that comes from child packages.<\/p>"
+                },
+                "73067": {
+                    "73067": "<p>It is another name for transient dependency.<\/p>"
+                },
+                "73068": {
+                    "73068": "<p>It is a dependency that has to be met for your package to work.<\/p>"
+                },
+                "73069": {
+                    "73069": "<p>It is a regular dependency. <\/p>"
+                }
+            },
+            "21135": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">What is a scoped npm package?<\/span><\/p>",
+                "73070": {
+                    "73070": "<p>It is a package that has very limited functionality.<\/p>"
+                },
+                "73071": {
+                    "73071": "<p>It is a package that can be imported only in certain files.<\/p>"
+                },
+                "73072": {
+                    "73072": "<p>It is a package whose name follows the following format: @[scope-name]\/[package-name]<\/p>"
+                },
+                "73073": {
+                    "73073": "<p>There is no such thing.<\/p>"
+                }
+            },
+            "21136": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How can you launch a React Native app on a simulator from Xcode?<\/span><\/p>",
+                "73074": {
+                    "73074": "<p>Open file .\/ios\/[project_name].xcworkspace in Xcode and select the run option.<\/p>"
+                },
+                "73075": {
+                    "73075": "<p>Open file .\/ios\/[project_name].xcodeproj in Xcode and select the run option.<\/p>"
+                },
+                "73076": {
+                    "73076": "<p>It is not possible.<\/p>"
+                },
+                "73077": {
+                    "73077": "<p>Import the whole React Native project directory into Xcode and select the run option.<\/p>"
+                }
+            },
+            "21137": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">How can you run the React Native app on an Android emulator from Android Studio?<\/span><\/p>",
+                "73078": {
+                    "73078": "<p>Open .\/android folder in Android Studio. Once IDE loads it, select the launch option.<\/p>"
+                },
+                "73079": {
+                    "73079": "<p>Open .\/android\/app folder in Android Studio. Once IDE loads it, select the launch option.<\/p>"
+                },
+                "73080": {
+                    "73080": "<p>It is not possible.<\/p>"
+                },
+                "73081": {
+                    "73081": "<p>Import the whole React Native project directory into Android Studio and select the launch option.<\/p>"
+                }
+            },
+            "21138": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Consider the following dependency definition in package.json: <\/span><code><strong>react\": \"^16.13.1<\/strong><\/code>.<\/p><p><br><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">What versions can be installed?<\/strong><\/p><p><br><\/p><p><br><\/p>",
+                "73082": {
+                    "73082": "<p>All versions greater or equal to 16.13.1 and lesser than 17.0.0<\/p>"
+                },
+                "73083": {
+                    "73083": "<p>All versions greater or equal to 16.13.1 and lesser than 16.14.0<\/p>"
+                },
+                "73084": {
+                    "73084": "<p>Only the exact version 16.13.1.<\/p>"
+                },
+                "73085": {
+                    "73085": "<p>All versions less than 17.0.0<\/p>"
+                }
+            },
+            "21139": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">To add a custom npm script to the project, which property of package.json would you use?<\/span><\/p>",
+                "73086": {
+                    "73086": "<p>run<\/p>"
+                },
+                "73087": {
+                    "73087": "<p>config<\/p>"
+                },
+                "73088": {
+                    "73088": "<p>scripts<\/p>"
+                },
+                "73089": {
+                    "73089": "<p>files<\/p>"
+                }
+            },
+            "21140": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which of the following are common commands for running the Metro bundler?<\/span><\/p>",
+                "73090": {
+                    "73090": "<p><code><strong>npm start<\/strong><\/code><\/p>"
+                },
+                "73091": {
+                    "73091": "<p><code><strong>npm run start<\/strong><\/code><\/p>"
+                },
+                "73092": {
+                    "73092": "<p><code><strong>react-native start<\/strong><\/code><\/p>"
+                },
+                "73093": {
+                    "73093": "<p><code><strong>npm metro<\/strong><\/code><\/p>"
+                }
+            },
+            "21141": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Metro bundler caches the content it serves.&nbsp;<\/span><\/p><p><br><\/p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">How do you start the Metro bundler with a clear cache?<\/strong><\/p>",
+                "73094": {
+                    "73094": "<p><code><strong>npm start -- --reset-cache<\/strong><\/code><\/p>"
+                },
+                "73095": {
+                    "73095": "<p><code><strong>npm start --reset-cache<\/strong><\/code><\/p>"
+                },
+                "73096": {
+                    "73096": "<p><code><strong>npm start -- --clear<\/strong><\/code><\/p>"
+                },
+                "73097": {
+                    "73097": "<p><code><strong>npm start --clear<\/strong><\/code><\/p>"
+                }
+            },
+            "21142": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">In a package.json file, how do you include a local package dependency?<\/span><\/p>",
+                "73098": {
+                    "73098": "<p>Add a locally referred path in the dependencies section, as shown below: <\/p><p><code><strong>\"myDependency\": \"file:path\/to\/my\/dependency\"<\/strong><\/code><\/p>"
+                },
+                "73099": {
+                    "73099": "<p>Upload it to GitHub and add a GitHub dependency.<\/p>"
+                },
+                "73100": {
+                    "73100": "<p>First run npm link command and later add the dependency as if it was a normal published one.<\/p>"
+                },
+                "73101": {
+                    "73101": "<p>It is impossible. Only published dependencies can be added.<\/p>"
+                }
+            },
+            "21143": {
+                "QUESTION_CONTENT": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Which is the best way to debug network requests sent from a React Native app?<\/span><\/p>",
+                "73102": {
+                    "73102": "<p>Log the state to the console.<\/p>"
+                },
+                "73103": {
+                    "73103": "<p>Use a react-native-debugger tool with network enabled.<\/p>"
+                },
+                "73104": {
+                    "73104": "<p>Use a proxy and re-route the device’s traffic through it.<\/p>"
+                },
+                "73105": {
+                    "73105": "<p>Go to the standard Chrome DevTools network tab.<\/p>"
+                }
+            }
+        }
     },
-    "index.header": {
-        "translation": "Making Translations Simple.",
-        "notes": ""
-    }
+    "appclip.parkingRescanQRCode.navigationTitle": "",
+    "appclip.parkingRescanQRCode.alertMessage": "",
+    "appclip.parkingRescanQRCode.scanLabelText": "",
+    "calendar:attendeeCount": "",
+    "calendar:attendeeTooltipSummary": "",
+    "calendar:connectCalendar": "",
+    "calendar:connectCalendarFailureMessage": "",
+    "calendar:createEventModal:client": "",
+    "calendar:createEventModal:createEvent": "",
+    "calendar:createEventModal:description": "",
+    "calendar:createEventModal:hidden": "",
+    "calendar:createEventModal:joinByPhone": "",
+    "calendar:createEventModal:joinMeeting": "",
+    "calendar:createEventModal:joiningInstructions": "",
+    "calendar:createEventModal:notifications:eventCreated": "",
+    "calendar:createEventModal:notifications:failedToCreateEvent": "",
+    "calendar:createEventModal:title": "",
+    "calendar:createEventModal:visibility": "",
+    "calendar:createEventModal:visibilityMessage:isHiddenContact": "",
+    "calendar:createEventModal:visibilityMessage:isPrivateContact": "",
+    "calendar:createEventModal:visibilityMessage:isPrivateEmail": "",
+    "calendar:createEventModal:visible": "",
+    "calendar:createEventModal:work": "",
+    "calendar:emailMeetingInvitation:attendees": "",
+    "calendar:emailMeetingInvitation:connectYourCalendar": "",
+    "calendar:emailMeetingInvitation:connectYourCalendarLinkLabel": "",
+    "calendar:emailMeetingInvitation:date": "",
+    "calendar:emailMeetingInvitation:location": "",
+    "calendar:eventModal:allEvents": "",
+    "calendar:eventModal:deleteEvent": "",
+    "calendar:eventModal:notifications:deleteEventFailed": "",
+    "calendar:eventModal:notifications:eventDeleted": "",
+    "calendar:eventModal:notifications:rsvpFailed": "",
+    "calendar:eventModal:rsvp": "",
+    "calendar:eventModal:rsvpToRecurringEvent": "",
+    "calendar:eventModal:thisAndFollowingEvents": "",
+    "calendar:eventModal:thisEvent": "",
+    "calendar:noEvent": "",
+    "calendar:organizer": "",
+    "calendar:rrule:everyDay": "",
+    "calendar:rrule:everyMonth": "",
+    "calendar:rrule:everyWeek": "",
+    "calendar:rrule:everyYear": "",
+    "calendar:rrule:from": "",
+    "calendar:rrule:occurance": "",
+    "calendar:rrule:onAllDays": "",
+    "calendar:rrule:onDate": "",
+    "calendar:rrule:onDayOfMonth": "",
+    "calendar:rrule:onDayOffset": "",
+    "calendar:rrule:onDays": "",
+    "calendar:rrule:onWeekDays": "",
+    "calendar:rrule:timePeriod": "",
+    "calendar:rrule:to": "",
+    "calendar:rrule:until": "",
+    "calendar:status:connected": "",
+    "calendar:status:disconnected": "",
+    "calendar:tabData:day": "",
+    "calendar:tabData:schedule": "",
+    "calendar:tabData:week": "",
+    "calendar:viewLoadFailureMessage": "",
+    "New_test_to_understand_the__connection_between_the_new_lines": "New test to understand the \nconnection between the new lines",
+    "Another_test_to_understand_the_connection_between_the_new": "Another test to understand\nthe connection between the new",
+    "index.welcome": "Welcome to Lokalise",
+    "index.header": "Making Transaltions Simple."
 }

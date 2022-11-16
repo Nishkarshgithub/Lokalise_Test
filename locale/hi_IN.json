@@ -1565,8 +1565,8 @@
     "calendar:tabData:schedule": "",
     "calendar:tabData:week": "",
     "calendar:viewLoadFailureMessage": "",
-    "New_test_to_understand_the__connection_between_the_new_lines": "を理解するための新しいテスト\n新しい回線間の接続",
-    "Another_test_to_understand_the_connection_between_the_new": "理解するための別のテスト\n新しいものとのつながり",
-    "index.welcome": "Lokalise へようこそ",
-    "index.header": "取引をシンプルに。"
+    "New_test_to_understand_the__connection_between_the_new_lines": "समझने के लिए नया परीक्षण\n नई लाइनों के बीच संबंध",
+    "Another_test_to_understand_the_connection_between_the_new": "समझने के लिए एक और परीक्षा\n नए के बीच संबंध",
+    "index.welcome": "स्थानीयकरण में आपका स्वागत है",
+    "index.header": "लेन-देन को सरल बनाना।"
 }
